@@ -39,7 +39,7 @@ We have posted the URLs in two files:
 
 # Acknowledgements
 
-Marilyn Kercher started this list a long time ago. She took it as her personal mission to ensure that people could find information on government web sites on the USASearch engine that do not end in .gov. She would be thrilled to learn that her list is open for anyone to access.
+Marilyn Kercher started this list a long time ago. She took it as her personal mission to ensure that people could find information in the USASearch engine that do not end in .gov. She would be thrilled to learn that her list is open for anyone to access.
 
 We hope that this list helps shine a light on where government information lives, and we welcome comments and additions.
 
