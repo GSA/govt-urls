@@ -7,6 +7,14 @@ We have posted the URLs in two files:
 * government-urls-alphabetic-list.txt -- a list of the domains with accompanying notes collected over time
 * government-urls-hierarchical-list.txt -- a flat list of domains segmented by state abbreviations
 
+Symbols that will you find in the hierarchical list include:
+
+* UF (used for) is the reciprocal of the USE reference and accompanies the term to which the USE reference refers;
+* BT (broader term) refers from a term for a member of a class to the term for the class;
+* NT (narrower term) refers from a term for a class to the term for one of its members;
+* RT (related term) is used between related terms when it seems helpful to bring associated types of evidence to the user's attention. 
+[Source](http://www.rbms.info/committees/bibliographic_standards/controlled_vocabularies/introductions/PrintIntro.htm)
+
 # What’s included in the list?
 
 * City government sites (such as ci.alice.tx.us and villageofjc.com)
