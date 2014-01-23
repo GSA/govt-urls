@@ -12,7 +12,7 @@ This is a list of government URLs that don't end in .gov or .mil.
 * [Military service academies](http://answers.usa.gov/system/templates/selfservice/USAGov/#!portal/1012/article/3290/Military-Service-Academies)
 * [Travel and tourism](http://www.usa.gov/Citizen/Topics/Travel-Tourism/State-Tourism.shtml) sites for states and U.S. territories
 * [State lotteries](http://www.usa.gov/Topics/Lottery-Results.shtml)
-* Cooperative extensions
+* [Cooperative extensions](http://www.csrees.usda.gov/Extension/USA-text.html)
 * [Combined federal campaigns](http://www.opm.gov/combined-federal-campaign/find-local-campaigns/locator/)
 * [Government sponsored enterprises](http://assets.opencrs.com/rpts/RS21663_20080909.pdf) (such as Fannie Mae) [PDF]
 * Task forces (such as the Preventative Services Task Force) and commissions (such as the 9/11 Commission)
