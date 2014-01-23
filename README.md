@@ -47,8 +47,8 @@ Cross reference symbols that you'll find in the hierarchical list include:
 * RT (related term)&indicates an association between two related terms when it seems helpful. 
 
 
-# Hat Tip
+# A Tip of the Hat
 
-Marilyn Kercher started this list many years ago. She took it as her personal mission to ensure you could find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
+A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you could find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
 
 We welcome comments and additions. Email us at <USASearch@gsa.gov>.
