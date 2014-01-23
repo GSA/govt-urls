@@ -22,8 +22,8 @@ This is a list of government URLs that don't end in .gov or .mil.
 
 * .gov URLs
 * .mil URLs
-* Subdomains or folders that are already covered by a top-level domain or pattern (such as fed.us, state.ak.us, nsn.us)
-* State institutions of [higher education](http://www.statelocalgov.net/50states-education.cfm) or their board of regents
+* Subdomains or folders that are already covered by a higher-level domain
+* State institutions of higher education or their board of regents
 * K-12 school districts
 * Local fire, library, police, sheriff, etc. departments with separate websites
 * Local chambers of commerce or visitor bureaus
