@@ -1,24 +1,10 @@
-# Summary
+As the U.S. government’s official web portal, [USA.gov](http://www.usa.gov) and its Spanish counterpart [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) search across all federal, state, local, tribal, and territorial government websites. Most government websites end in .gov or .mil, but many end in .com, .org, .edu, or other top-level domains.
 
-As the U.S. government’s official web portal, [USA.gov](http://www.usa.gov) and its Spanish counterpart [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) try to have a comprehensive search across all federal, state, local, tribal, and territorial government websites. 
-
-We have posted the URLs in two files:
-
-* government-urls-alphabetic-list.txt -- a list of the domains with accompanying notes collected over time
-* government-urls-hierarchical-list.txt -- a flat list of domains segmented by state abbreviations. I.e. usagovAK, usagovAL, etc.
-
-Symbols that you'll find in the hierarchical list include:
-
-* BT (broader term)&mdash;indicates the category for each URL, such as federal (usagovFED) or state, commonwealth, or territory (usagov__, 2-letter [postal abbreviation](https://www.usps.com/send/official-abbreviations.htm)).
-* NT (narrower term)&mdash;the opposite of BT. 
-* UF (used for)&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE.
-* USE&mdash;indicates the preferred, resolving URL. USE is the reciprocal of UF.
-* RTET (related equivalent term)&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
-* RT (related term)&indicates an association between two related terms when it seems helpful. 
+This is a list of government URLs that don't end in .gov or .mil.
 
 # What’s included in this list?
 
-* Federal, state, local, [tribal](http://www.usa.gov/Government/Tribal-Sites/index.shtml), commonwealth, and territorial government websites
+* Federal, state, local, [tribal](http://www.usa.gov/Government/Tribal-Sites/index.shtml), commonwealth, and territorial government agency websites
 * [Federal reserve banks and branches](http://www.federalreserve.gov/otherfrb.htm)
 * [Federal home loan banks](http://www.fhlbanks.com/contacts_mpi_atlanta.htm)
 * [Presidential libraries](http://www.archives.gov/presidential-libraries/)
@@ -43,6 +29,23 @@ Symbols that you'll find in the hierarchical list include:
 * Local chambers of commerce or visitor bureaus
 * Nonprofit municipal leagues or councils of government officials
 * Nonprofit historical societies
+
+# How is this list organized?
+
+We've posted the URLs in two files:
+
+* government-urls-alphabetic-list.txt&mdash;an A-Z list of URLs with accompanying notes collected over time.
+* government-urls-hierarchical-list.txt&mdash;a flat, hierarchical list of URLs segmented by term and category.
+
+Cross reference symbols that you'll find in the hierarchical list include:
+
+* BT (broader term)&mdash;indicates the category for each URL, such as federal (usagovFED) or state, commonwealth, or territory (usagov__, 2-letter [postal abbreviation](https://www.usps.com/send/official-abbreviations.htm)).
+* NT (narrower term)&mdash;the opposite of BT. 
+* UF (used for)&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE and means "don't use" the term following it.
+* USE&mdash;indicates the preferred, resolving URL. "Use" the term following it.
+* RTET (related equivalent term)&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
+* RT (related term)&indicates an association between two related terms when it seems helpful. 
+
 
 # Hat Tip
 
