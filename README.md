@@ -36,21 +36,21 @@ We maintain this list at <http://govt-urls.usa.gov/tematres/vocab/index.php> and
 
 Each quarter, we also post the URLs here in Github in two files.
 
-1. government-urls-alphabetic-list.txt&mdash;an A-Z list of URLs with accompanying notes collected over time.
-2. government-urls-hierarchical-list.txt&mdash;a flat, hierarchical list of URLs segmented by term and category.
+1. [Alphabetic](/government-urls-alphabetic-list.txt)&mdash;an A-Z list of URLs with accompanying notes and relationships collected over time.
+2. [Hierarchical](/government-urls-hierarchical-list.txt)&mdash;a flat list of URLs segmented by category (see BT description in the following section).
 
-Cross reference symbols that you'll find in the hierarchical list include:
+Cross reference symbols that you'll find in the alphabetic list include:
 
-* BT (broader term)&mdash;indicates the category for each URL, such as federal (usagovFED) or state, commonwealth, or territory (usagov__, 2-letter [postal abbreviation](https://www.usps.com/send/official-abbreviations.htm)).
-* NT (narrower term)&mdash;the opposite of BT. 
-* UF (used for)&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE and means "don't use" the term following it.
-* USE&mdash;indicates the preferred, resolving URL. "Use" the term following it.
-* RTET (related equivalent term)&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
-* RT (related term)&mdash;indicates an association between two related terms when it seems helpful. 
+* **BT (broader term)**&mdash;indicates the category for each URL, such as federal (usagovFED) or state, commonwealth, or territory (usagov__, 2-letter [postal abbreviation](https://www.usps.com/send/official-abbreviations.htm)).
+* **NT (narrower term)**&mdash;the opposite of BT. 
+* **UF (used for)**&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE and means "don't use" the term following it.
+* **USE**&mdash;indicates the preferred, resolving URL. "Use" the term following it.
+* **RTET (related equivalent term)**&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
+* **RT (related term)**&mdash;indicates an association between two related terms when it seems helpful. 
 
 
 # A Tip of the Hat
 
 A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you could find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
 
-We welcome comments and additions. Email us at <USASearch@gsa.gov>.
+We welcome comments and additions. [Contribute](/CONTRIBUTING.md) directly to this list or email us at <USASearch@gsa.gov>.
