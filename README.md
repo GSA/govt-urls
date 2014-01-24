@@ -46,7 +46,7 @@ Cross reference symbols that you'll find in the hierarchical list include:
 * UF (used for)&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE and means "don't use" the term following it.
 * USE&mdash;indicates the preferred, resolving URL. "Use" the term following it.
 * RTET (related equivalent term)&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
-* RT (related term)&indicates an association between two related terms when it seems helpful. 
+* RT (related term)&mdash;indicates an association between two related terms when it seems helpful. 
 
 
 # A Tip of the Hat
