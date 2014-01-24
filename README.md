@@ -32,10 +32,12 @@ This is a list of government URLs that don't end in .gov or .mil.
 
 # How is this list organized?
 
-We've posted the URLs in two files:
+We maintain this list at <http://govt-urls.usa.gov/tematres/vocab/index.php> and make periodic updates as we come across changes.
 
-* government-urls-alphabetic-list.txt&mdash;an A-Z list of URLs with accompanying notes collected over time.
-* government-urls-hierarchical-list.txt&mdash;a flat, hierarchical list of URLs segmented by term and category.
+Each quarter, we also post the URLs here in Github in two files.
+
+1. government-urls-alphabetic-list.txt&mdash;an A-Z list of URLs with accompanying notes collected over time.
+2. government-urls-hierarchical-list.txt&mdash;a flat, hierarchical list of URLs segmented by term and category.
 
 Cross reference symbols that you'll find in the hierarchical list include:
 
