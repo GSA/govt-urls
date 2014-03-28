@@ -1,8 +1,8 @@
-As the U.S. government’s official web portal, [USA.gov](http://www.usa.gov) and its Spanish counterpart [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) search across all federal, state, local, tribal, and territorial government websites. Most government websites end in .gov or .mil, but many end in .com, .org, .edu, or other top-level domains.
+As the U.S. government's official web portal, [USA.gov](http://www.usa.gov) and its Spanish counterpart [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) search across all federal, state, local, tribal, and territorial government websites. Most government websites end in .gov or .mil, but many end in .com, .org, .edu, or other top-level domains.
 
 This is a list of government URLs that don't end in .gov or .mil.
 
-# What’s included in this list?
+# What's included in this list?
 
 * Federal, state, local, [tribal](http://www.usa.gov/Government/Tribal-Sites/index.shtml), commonwealth, and territorial government agency websites
 * [Federal reserve banks and branches](http://www.federalreserve.gov/otherfrb.htm)
@@ -18,7 +18,7 @@ This is a list of government URLs that don't end in .gov or .mil.
 * Task forces (such as the Preventative Services Task Force) and commissions (such as the 9/11 Commission)
 * A few select, nongoverment organizations (such as the Red Cross) and public-private partnerships
 
-# What’s not included in this list?
+# What's not included in this list?
 
 * .gov URLs
 * .mil URLs
@@ -51,6 +51,6 @@ Cross reference symbols that you'll find in the alphabetic list include:
 
 # A Tip of the Hat
 
-A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you could find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
+A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you can find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
 
-We welcome comments and additions. [Contribute](/CONTRIBUTING.md) directly to this list or email us at <USASearch@gsa.gov>.
+We welcome comments and additions. [Contribute](/CONTRIBUTING.md) directly to this list or email us at <search@support.digitalgov.gov>.
