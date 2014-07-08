@@ -29,6 +29,7 @@ This is a list of government URLs that don't end in .gov or .mil.
 * Local chambers of commerce or visitor bureaus
 * Nonprofit municipal leagues or councils of government officials
 * Nonprofit historical societies
+* Transit authorities
 
 # How is this list organized?
 
