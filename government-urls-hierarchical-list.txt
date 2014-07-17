@@ -937,14 +937,12 @@ usagovCO
  .	burlingtoncolo.com
  .	c3gov.com
  .	cedaredgecolorado.com
- .	centennialcolorado.com
+ .	centennialco.gov
  .	chaffeecounty.org
  .	cherryhillsvillage.com
  .	ci.broomfield.co.us
  .	ci.colospgs.co.us
  .	ci.craig.co.us
- .	ci.englewood.co.us
- .	ci.fountain.co.us
  .	ci.glenwood-springs.co.us
  .	ci.longmont.co.us
  .	ci.loveland.co.us
@@ -953,6 +951,7 @@ usagovCO
  .	ci.wheatridge.co.us
  .	cityofblackhawk.org
  .	cityofcortez.com
+ .	cityofenglewood.org
  .	cityoffortmorgan.com
  .	cityoflafayette.com
  .	cityoflonetree.com
@@ -981,6 +980,7 @@ usagovCO
  .	fcgov.com
  .	flaglercolorado.com
  .	fortlupton.org
+ .	fountaincolorado.org
  .	fremontco.com
  .	friscogov.com
  .	fruita.org
@@ -1162,7 +1162,6 @@ usagovDC
  .	dclottery.com
  .	rubberrevolutiondc.com
  .	washington.org
- .	wmata.com
 usagovDE
  .	cbacfc.org
  .	cityofdover.com
@@ -1252,6 +1251,7 @@ usagovFED
  .	farmcreditbank.com
  .	farmermac.com
  .	fbiacademy.edu
+ .	fcc.us
  .	fd.org
  .	fdrlibrary.marist.edu
  .	fed.us
@@ -1275,6 +1275,7 @@ usagovFED
  .	findtbresources.org
  .	firelab.org
  .	forest.moscowfsl.wsu.edu
+ .	forestryimages.org
  .	frbatlanta.org
  .	frbsf.org
  .	freddiemac.com
@@ -1306,20 +1307,24 @@ usagovFED
  .	knowyouroptions.com
  .	lbjlibrary.org
  .	leopold.wilderness.net
+ .	lifeasamarine.com
  .	literacydirectory.org
  .	livingmemorialsproject.net
  .	mapaplanet.com
  .	mapaplanet.org
  .	marineforlife.org
+ .	marinemarathon.com
  .	marines.com
  .	marshallcenter.org
  .	martinoticias.com
+ .	mcmregistration.com
  .	micanaldepanama.com
  .	minneapolisfed.org
  .	moneyfactory.com
  .	moon-cal.org
  .	myedaccount.com
  .	myfuture.com
+ .	mymcx.com
  .	mynextmove.org
  .	myskillsmyfuture.org
  .	nasa.asee.org
@@ -1351,6 +1356,7 @@ usagovFED
  .	project-open-data.github.io
  .	r3coastal.com
  .	radiosawa.com
+ .	railroadersleep.org
  .	reagan.utexas.edu
  .	reaganfoundation.org
  .	reirs.com
@@ -1392,6 +1398,7 @@ usagovFED
  .	usembassy-china.org.cn
  .	usma.edu
  .	usmc-mccs.org
+ .	usmcu.edu
  .	usmma.edu
  .	usna.edu
  .	usps.com
@@ -1997,7 +2004,6 @@ usagovIA
  .	flysux.com
  .	fortdodgeiowa.org
  .	fortmadison-ia.com
- .	genesishealth.com/qchi
  .	grangeriowa.org
  .	griswoldia.govoffice2.com
  .	grundycounty.org
@@ -2081,7 +2087,6 @@ usagovIA
  .	tamacity.govoffice2.com
  .	tamacounty.org
  .	tiptoniowa.org
- .	tobaccofreeqc.org
  .	traveliowa.com
  .	underwoodia.com
  .	university-heights.org
@@ -2211,19 +2216,16 @@ usagovIL
  .	blueisland.org
  .	bolingbrook.com
  .	boonecountyil.org
- .	bradleyil.org
  .	breese.org
  .	camptontownship.com
  .	carolstream.org
  .	caryillinois.com
- .	centralillinoiscfc.org
  .	channahon.org
  .	charlestonillinois.org
  .	chathamil.net
  .	cherryvalley.org
  .	chicagocfc.net
  .	chicagofed.org
- .	chicagoheights.net
  .	chicagoridge.org
  .	ci.champaign.il.us
  .	ci.montgomery.il.us
@@ -2232,15 +2234,16 @@ usagovIL
  .	cityhpil.com
  .	cityofbatavia.net
  .	cityofchicago.org
+ .	cityofchicagoheights.org
  .	cityofdanville.org
  .	cityofdekalb.com
  .	cityofeastpeoria.com
  .	cityofedwardsville.com
  .	cityofelgin.org
- .	cityofevanston.org/government
+ .	cityofevanston.org
  .	cityofgalena.org
  .	cityofharvard.org
- .	cityofharvey.org/site2
+ .	cityofharvey.org
  .	cityoflakeforest.com
  .	cityoflockport.net
  .	cityofmacomb.com
@@ -2258,7 +2261,6 @@ usagovIL
  .	cortlandil.org
  .	crystallake.org
  .	cubatownship.com
- .	cumtd.com
  .	cyberdriveillinois.com
  .	deerfield.il.us
  .	dekalbcounty.org
@@ -2294,7 +2296,6 @@ usagovIL
  .	foxrivergrove-il.org
  .	freeburg.com
  .	gatewaycfc.org
- .	genesishealth.com/qchi
  .	germantownhillsillinois.org
  .	glen-carbon.il.us
  .	glendaleheights.org
@@ -2309,9 +2310,10 @@ usagovIL
  .	harwoodheights.org
  .	henrycty.com
  .	hillside-il.org
- .	historyillinois.org
  .	hoffmanestates.com
  .	homerglenil.org
+ .	htc.net/~milltownship
+ .	il-bradley.civicplus.com
  .	il-vernonhills.civicplus.com
  .	illinoisepay.com
  .	illinoislottery.com
@@ -2325,6 +2327,7 @@ usagovIL
  .	lake-villa.org
  .	lakebluff.org
  .	lakevillatownship.org
+ .	lakezurich.org
  .	lasallecounty.org
  .	lemont.il.us
  .	lemonttownship.org
@@ -2341,7 +2344,6 @@ usagovIL
  .	maywood-il.org
  .	mchenrytownship.com
  .	melrosepark.org
- .	millstadt.org
  .	minooka.com
  .	mocoil.org
  .	mokena.org
@@ -2353,11 +2355,9 @@ usagovIL
  .	mortongroveil.org
  .	mountprospect.org
  .	mtcarrollil.org
- .	mtco.com/~mettwp
  .	mtvernon.com
  .	mtzion.com
- .	mundelein.org
- .	murphysboro.com
+ .	mundelein-il.org
  .	naperville.il.us
  .	napervilletownship.com
  .	newlenox.net
@@ -2399,6 +2399,7 @@ usagovIL
  .	rochesteril.org
  .	rockdale-il.com
  .	rockfalls61071.com
+ .	rockislandcounty.org
  .	rocktonvillage.com
  .	romeoville.org
  .	roselle.il.us
@@ -2408,7 +2409,6 @@ usagovIL
  .	savannaillinois.com
  .	schaumburgtownship.org
  .	shilohil.org
- .	sirpdc.org
  .	skokie.org
  .	southelgin.com
  .	spring-valley.il.us
@@ -2419,9 +2419,6 @@ usagovIL
  .	taylorville.net
  .	tazewell.com
  .	tinleypark.org
- .	tobaccofreeqc.org
- .	toi.org
- .	transitchicago.com
  .	tricountyrpc.org
  .	troyil.us
  .	university-park-il.com
@@ -2444,7 +2441,7 @@ usagovIL
  .	villageofcrete.org
  .	villageoffrankfort.com
  .	villageofgilberts.com
- .	villageofglencoe.org/government
+ .	villageofglencoe.org
  .	villageofglenwood.com
  .	villageofgrayslake.com
  .	villageofhazelcrest.com
@@ -2470,9 +2467,8 @@ usagovIL
  .	villageofworth.com
  .	villagrove.org
  .	vniles.com
- .	volz.org
  .	warrentownship.net
- .	watsekacity.com
+ .	watsekacity.org
  .	waukegantownship.com
  .	waukeganweb.net
  .	westchester-il.org
@@ -2502,7 +2498,6 @@ usagovIN
  .	cfcindiana.org
  .	cfclouisville.org
  .	chestertonin.org
- .	chicagocfc.net
  .	churubusco.net
  .	ci.valparaiso.in.us
  .	cityofanderson.com
@@ -3069,7 +3064,6 @@ usagovMD
  .	barton.allconet.org
  .	belairmd.org
  .	berwyn-heights.com
- .	bism.org
  .	capitolheightsmd.com
  .	carolinemd.org
  .	carr.org
@@ -3133,7 +3127,6 @@ usagovMD
  .	mountairymd.org
  .	mountrainiermd.org
  .	msccsp.org
- .	mtnlakepark.us
  .	myersvillemd.govoffice2.com
  .	myweb.cebridge.net/townofkitzmiller
  .	newwindsormd.org
@@ -3153,14 +3146,10 @@ usagovMD
  .	ridgelymd.org
  .	risingsunmd.org
  .	riverdaleparkmd.info
- .	rockislandcounty.org
- .	salisburyfd.com
  .	sharpsburgmd.com
  .	snowhillmd.com
  .	srbc.net
  .	state.md.us
- .	stmaryscountycfc.org
- .	sudlersville.org
  .	sykesville.net
  .	taneytown.org
  .	thurmont.com
@@ -3178,6 +3167,7 @@ usagovMD
  .	townoflaplata.org
  .	townofprincessanne.com
  .	townofsharptown.org
+ .	townofsmithsburg.org
  .	townofsomerset.com
  .	townofstmichaels.com
  .	townofsudlersville.org
@@ -3188,10 +3178,8 @@ usagovMD
  .	walkersville-md.com
  .	washco-md.net
  .	washingtongrovemd.org
- .	wc-link.org/smithsburg
  .	westgov.com
  .	wicomicocounty.org
- .	wmata.com
  .	woodsboro.org
 usagovME
  .	actonmaine.org
@@ -3631,6 +3619,7 @@ usagovMI
  .	sanilaccounty.net
  .	saugatuckcity.com
  .	saulttribe.com
+ .	seekingmichigan.org
  .	shelbytwp.org
  .	shiawassee.net
  .	sjcity.com
@@ -4364,7 +4353,6 @@ usagovMP
  .	mymarianas.com
 usagovMS
  .	aberdeenms.us
- .	amoryms.us
  .	ashland.ms
  .	biloxi.ms.us
  .	brookhavenms.com
@@ -4376,12 +4364,11 @@ usagovMS
  .	ci.mendenhall.ms.us
  .	ci.ocean-springs.ms.us
  .	ci.pass-christian.ms.us
- .	ci.quitman.ms.us
- .	city.jackson.ms.us
+ .	cityofamoryms.com
  .	cityofbaldwyn.com
  .	cityofbatesvillems.com
  .	cityofbaysprings.com
- .	cityofboonevillems.com
+ .	cityofboonevillems.org
  .	cityofbrandon.net
  .	cityofcarthage.org
  .	cityofclevelandms.com
@@ -5357,7 +5344,6 @@ usagovNH
  .	woodstocknh.org
 usagovNJ
  .	aberdeennj.org
- .	absecon-newjersey.org
  .	aclink.org
  .	ahnj.com
  .	alexandria-nj.us
@@ -5368,7 +5354,7 @@ usagovNJ
  .	andovertwp.org
  .	audubonparknj.org
  .	avalonboro.org
- .	avon-by-the-sea.com
+ .	avonbytheseanj.com
  .	barnegat.net
  .	barringtonboro.com
  .	bassriver-nj.org
@@ -5669,7 +5655,6 @@ usagovNJ
  .	njfishandwildlife.com
  .	njstatelib.org
  .	njsurcharge.com
- .	njtransit.com
  .	njuifile.net
  .	northarlington.org
  .	northbergen.org
@@ -5873,6 +5858,7 @@ usagovNM
  .	aces.nmsu.edu/pubs
  .	ashiwi.org
  .	bloomfieldnm.com
+ .	catroncounty.us
  .	ci.alamogordo.nm.us
  .	cityofcarlsbadnm.com
  .	cityofclovis.org
@@ -5886,6 +5872,7 @@ usagovNM
  .	co.mckinley.nm.us
  .	co.otero.nm.us
  .	corrales-nm.org
+ .	currycounty.org
  .	donaanacounty.org
  .	extension.nmsu.edu
  .	fmtn.org
@@ -5900,8 +5887,6 @@ usagovNM
  .	lincolncountynm.net
  .	losalamosnm.us
  .	lovington.org
- .	mylocalgov.com/catroncountynm
- .	mylocalgov.com/currycountynm
  .	newmexico.org
  .	newmexicocfc.org
  .	nmlottery.com
@@ -7476,7 +7461,7 @@ usagovOR
  .	echo-oregon.com
  .	elkton-oregon.com
  .	extension.oregonstate.edu
- .	fallscity.org
+ .	fallscityoregon.gov
  .	gduway.org
  .	getcollegefunds.org
  .	hermiston.or.us
@@ -7492,7 +7477,6 @@ usagovOR
  .	malheurco.org
  .	morrowcountyoregon.com
  .	multco.us
- .	mwtown.org
  .	northbendcity.org
  .	northplains.org
  .	nwsds.org
@@ -7505,14 +7489,12 @@ usagovOR
  .	oregongeology.com
  .	oregonlottery.org
  .	oregonstatefair.org
- .	osbar.org
  .	pacificnwcfc.org
  .	pendleton.or.us
  .	phoenixoregon.net
  .	portlandonline.com
  .	portorford.org
  .	prairiecityoregon.com
- .	sdao.com
  .	shadycove.net
  .	sherman-county.com
  .	silverton.or.us
@@ -7525,7 +7507,6 @@ usagovOR
 usagovPA
  .	3riverscfc.org
  .	abington.org
- .	abingtontownship.us
  .	adamscounty.us
  .	adamstwp.org
  .	adoptpakids.org
@@ -7884,6 +7865,7 @@ usagovPA
  .	radnor.com
  .	rankinborough.com
  .	raphotownship.com
+ .	readypa.org
  .	redlionpa.org
  .	reservetwp.com
  .	ricetwp.us
@@ -8051,7 +8033,8 @@ usagovPR
  .	seepuertorico.com
  .	uctp.org
 usagovPW
- .	palaugov.net
+ .	palaugov.org
+ .	palausupremecourt.net
 usagovQUASI
  .	1800runaway.org
  .	911digitalarchive.org
@@ -8966,6 +8949,7 @@ usagovTX
  .	roysecity.com
  .	sanangelocfc.org
  .	sanangelotexas.us
+ .	sanjacintoriverauthority.com
  .	sansabatexas.com
  .	schertz.com
  .	seagoville.us
@@ -9175,6 +9159,7 @@ usagovUT
  .	woodscross.com
  .	wt.govoffice.com
 usagovVA
+ .	211.getcare.com
  .	211virginia.org
  .	albemarle.org
  .	alleghanycounty.us
@@ -9218,7 +9203,6 @@ usagovVA
  .	co.frederick.va.us
  .	co.gloucester.va.us
  .	co.goochland.va.us
- .	co.hanover.va.us
  .	co.henrico.va.us
  .	co.isle-of-wight.va.us
  .	co.middlesex.va.us
@@ -9234,7 +9218,6 @@ usagovVA
  .	countyofamherst.com
  .	covington.va.us
  .	cspdc.org
- .	culpeper.to
  .	damascus.org
  .	daytonva.us
  .	dickensonva.org
@@ -9247,6 +9230,7 @@ usagovVA
  .	fcva.us
  .	floydcova.org
  .	fluvannacounty.org
+ .	franklincountyva.gov
  .	franklincountyva.org
  .	franklinva.com
  .	frontroyalva.com
@@ -9255,6 +9239,7 @@ usagovVA
  .	gloucesterva.info
  .	govce.net
  .	gunstonhall.org
+ .	henrico.us
  .	honakerva.com
  .	hrpdc.org
  .	independenceva.com
@@ -9266,12 +9251,12 @@ usagovVA
  .	lawrencevilleweb.com
  .	leesburgva.org
  .	lenowisco.org
+ .	lexingtonva.gov
  .	louisacounty.com
  .	louisatown.org
  .	manassascity.org
  .	marionva.org
  .	montva.com
- .	motorcycleva.com
  .	mountjackson.com
  .	mppdc.com
  .	mppdc.com/historical
@@ -9285,7 +9270,9 @@ usagovVA
  .	parksley.org
  .	pearisburg.org
  .	petersburg-va.org
+ .	petersburgva.gov
  .	pittgov.org
+ .	portofvirginia.com
  .	potomaccfc.org
  .	princegeorgeva.org
  .	pulaskicounty.org
@@ -9327,7 +9314,6 @@ usagovVA
  .	townofcoeburn.com
  .	townofgordonsville.org
  .	townofhalifax.com
- .	townofkilmarnockva.com
  .	townoflacrosse.org
  .	townofluray.com
  .	townofmiddleburg.org
@@ -9342,10 +9328,8 @@ usagovVA
  .	vaboard.org
  .	vadrs.org
  .	vadsa.org
- .	vafamilyconnections.com
  .	vafire.com
  .	valottery.com
- .	vaports.com
  .	varetire.org
  .	vats.org
  .	vbgov.com
@@ -9367,7 +9351,6 @@ usagovVA
  .	west-point.va.us
  .	westmoreland-county.org
  .	wisecounty.org
- .	wmata.com
  .	wytheville.org
  .	yesvirginia.org
 usagovVI
@@ -9712,8 +9695,8 @@ usagovWA
  .	gopcfc.org
  .	gorgecommission.org
  .	grandview.wa.us
- .	harringtonbiz.com
  .	havemilk.com
+ .	innovatewashington.org
  .	inwcfc.org
  .	islandcounty.net
  .	kettle-falls.com
@@ -9759,8 +9742,6 @@ usagovWA
  .	royalcitywa.org
  .	rustonwa.org
  .	sanjuanco.com
- .	sbctc.ctc.edu
- .	sirti.org
  .	skagitcounty.net
  .	skamaniacounty.org
  .	soaplakecity.org
@@ -9780,7 +9761,6 @@ usagovWA
  .	townoflaconner.org
  .	townoflyman.com
  .	townofnaches.com
- .	townofrosalia.org
  .	townofsouthprairie.com
  .	townofsteilacoom.com
  .	townoftwisp.com
@@ -9925,7 +9905,7 @@ usagovWI
  .	co.calumet.wi.us
  .	co.chippewa.wi.us
  .	co.clark.wi.us
- .	co.columbia.wi.us/ColumbiaCounty
+ .	co.columbia.wi.us
  .	co.dodge.wi.us
  .	co.eau-claire.wi.us
  .	co.green-lake.wi.us
