@@ -10,20 +10,20 @@
 <h2>Using the API</h1>
 <p>The URL's API is at <a href="/api/v1/q/urls.json">/api/v1/q/urls.json</a>. It supports two parameters:
 <ol>
-<li><strong>collection</strong>: a short code that describes the subset of the URL's database you want to access (most are US states and territories)</li>
+<li><strong>collection</strong>: a short code that describes the subset of the URL's database you want to access (most are US states and territories). See the drop-down list below.</li>
 <li><strong>page</strong>: the page number you wish to retrieve.</li>
 </ol>
 </p>
 
-<h2>Filter by collection</h2>
+<h2>Preview</h2>
 <form>
-<select name="filter_collection">
+<strong>collection</strong>:<select name="filter_collection">
 
 {% for collection in queries.urls.possible_values_for('collection')|sort(attribute='term') %}
 <option value="{{collection.term}}">{{collection.term}}</option>
 {% endfor %}
 </select>
-<input type="submit" value="Apply filters"/>
+<input type="submit" value="Apply filter"/>
 </form>
 <ul>
 {% for url in urls %}
