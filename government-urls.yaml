@@ -68,7 +68,7 @@ usagovAK:
   - USCGAlaska.com
   - wrangell.com
   - yakutatak.govoffice2.com
-usagovAL
+usagovAL:
   - aces.edu
   - adph.org
   - ahfa.com
@@ -205,7 +205,7 @@ usagovAL
   - vestaviahills.net
   - walkercounty.com
   - winfieldcity.org
-usagovAR
+usagovAR:
   - accessfayetteville.org
   - apscservices.info
   - aragriculture.org
@@ -270,12 +270,12 @@ usagovAR
   - tnregionalcfc.org
   - uaex.edu
   - whitecountyar.org
-usagovAS
+usagovAS:
   - amsamoatourism.com
   - asgteo.com
   - cfc-hawaii.org
   - doe.as
-usagovAZ
+usagovAZ:
   - ajcity.net
   - arizonaguide.com
   - arizonalottery.com
@@ -340,7 +340,7 @@ usagovAZ
   - townofparkerarizona.com
   - yavapai.us
   - youngtownaz.org
-usagovCA
+usagovCA:
   - accessduarte.com
   - acgov.org
   - alamedahsg.org
@@ -918,7 +918,7 @@ usagovCA
   - yucaipa.org
   - yucca-valley.org
   - yuroktribe.org
-usagovCO
+usagovCO:
   - 4thjudicialda.com
   - archuletacounty.org
   - aspenpitkin.com
@@ -1030,7 +1030,7 @@ usagovCO
   - townofwellington.com
   - windsorgov.com
   - wrayco.net
-usagovCT
+usagovCT:
   - andoverct.org
   - ashfordtownhall.org
   - bloomfieldct.org
@@ -1144,7 +1144,7 @@ usagovCT
   - wolcottct.org
   - woodbridgect.org
   - woodburyct.org
-usagovDC
+usagovDC:
   - anc1c.org
   - anc2e.com
   - anc2f.org
@@ -1154,7 +1154,7 @@ usagovDC
   - dclottery.com
   - rubberrevolutiondc.com
   - washington.org
-usagovDE
+usagovDE:
   - cbacfc.org
   - cityofdover.com
   - cityofmilford.com
@@ -1178,7 +1178,7 @@ usagovDE
   - townofselbyville.com
   - violade.com
   - visitdelaware.com
-usagovFED
+usagovFED:
   - abovetheinfluence.com
   - academyadmissions.com
   - adlnet.org
@@ -1403,7 +1403,7 @@ usagovFED
   - voanews.com
   - voatour.com
   - westpoint.edu
-usagovFL
+usagovFL:
   - abletrust.org
   - alachuacounty.us
   - altamonte.org
@@ -1704,9 +1704,9 @@ usagovFL
   - workforceflorida.com
   - wpb.org
   - wrpc.cc
-usagovFM
+usagovFM:
   - fsmgov.org
-usagovGA
+usagovGA:
   - acworth.org
   - alpharetta.ga.us
   - athensclarkecounty.com
@@ -1904,7 +1904,7 @@ usagovGA
   - whitfieldcountyga.com
   - willacoochee.com
   - woodbinegeorgia.net
-usagovGU
+usagovGU:
   - cfc-hawaii.org
   - guamag.org
   - guamlegislature.com
@@ -1913,7 +1913,7 @@ usagovGU
   - investguam.com
   - justice.gov.gu
   - visitguam.org
-usagovHI
+usagovHI:
   - cfc-hawaii.org
   - co.maui.hi.us
   - gohawaii.com
@@ -1924,7 +1924,7 @@ usagovHI
   - oahumpo.org
   - oha.org
   - state.hi.us
-usagovIA
+usagovIA:
   - adeliowa.org
   - aftoniowa.com
   - akronia.org
@@ -2099,7 +2099,7 @@ usagovIA
   - windsorheights.org
   - winfieldiowa.com
   - wrightcounty.org
-usagovID
+usagovID:
   - accessidaho.org
   - adaweb.net
   - bearlakecounty.info
@@ -2195,7 +2195,7 @@ usagovID
   - twinfallscounty.org
   - uidaho.edu/extension
   - visitidaho.org
-usagovIL
+usagovIL:
   - addisonadvantage.org
   - algonquin.org
   - altamontil.net
@@ -2477,7 +2477,7 @@ usagovIL
   - worthtownship.com
   - wsprings.com
   - yorktwsp.com
-usagovIN
+usagovIN:
   - ag.purdue.edu/extension
   - angolain.org
   - avongov.org
@@ -2569,7 +2569,7 @@ usagovIN
   - wellscounty.org
   - whitingindiana.com
   - winonalake.net
-usagovKS
+usagovKS:
   - 360eldorado.com/Government
   - abilenecityhall.com
   - allencounty.org
@@ -2725,7 +2725,7 @@ usagovKS
   - winfieldks.org
   - woodsoncounty.net
   - wycokck.org
-usagovKY
+usagovKY:
   - allencountykentucky.com
   - bellevueky.org
   - bgky.org
@@ -2813,7 +2813,7 @@ usagovKY
   - tnregionalcfc.org
   - versaillesky.com
   - winchesterky.com
-usagovLA
+usagovLA:
   - addisla.org
   - arcadialouisiana.org
   - ardd.org
@@ -2927,7 +2927,7 @@ usagovLA
   - wppj.org
   - youngsville.us
   - zwollela.net
-usagovMA
+usagovMA:
   - ag.umass.edu
   - ashlandmass.com
   - avonmass.org
@@ -3047,7 +3047,7 @@ usagovMA
   - winchester.us
   - worthington-ma.us
   - yarmouth.ma.us
-usagovMD
+usagovMD:
   - aacounty.org
   - aberdeen-md.org
   - accidentmd.org
@@ -3173,7 +3173,7 @@ usagovMD
   - westgov.com
   - wicomicocounty.org
   - woodsboro.org
-usagovME
+usagovME:
   - actonmaine.org
   - albionme.com
   - alfredme.us
@@ -3356,9 +3356,9 @@ usagovME
   - wiscasset.org
   - woolwich.us
   - yorkmaine.org
-usagovMH
+usagovMH:
   - rmi-op.net
-usagovMI
+usagovMI:
   - aatwp.org
   - accesskent.com
   - alamotownship.org
@@ -3659,7 +3659,7 @@ usagovMI
   - wmsrdc.org
   - woodhavenmi.org
   - wyandotte.net
-usagovMN
+usagovMN:
   - albanytownship.com
   - alexandriatownship.org
   - ardc.org
@@ -4086,7 +4086,7 @@ usagovMN
   - woodrowtwpmn.govoffice2.com
   - wyomingmn.org
   - zimmerman.govoffice.com
-usagovMO
+usagovMO:
   - albanymo.net
   - arnoldmo.org
   - ashgrovemo.org
@@ -4339,11 +4339,11 @@ usagovMO
   - westplains.net
   - willowspringsmo.com
   - wrightcity.org
-usagovMP
+usagovMP:
   - cfc-hawaii.org
   - gov.mp
   - mymarianas.com
-usagovMS
+usagovMS:
   - aberdeenms.us
   - ashland.ms
   - biloxi.ms.us
@@ -4460,7 +4460,7 @@ usagovMS
   - waynecounty.ms
   - wessonms.org
   - wpnet.org
-usagovMT
+usagovMT:
   - beaverheadcounty.org
   - blackfeetnation.com
   - bozeman.net
@@ -4528,7 +4528,7 @@ usagovMT
   - townofmanhattan.com
   - townofwestyellowstone.com
   - visitmt.com
-usagovNC
+usagovNC:
   - 174.132.145.94/~hope
   - alamance-nc.com
   - albemarlecommission.org
@@ -4944,7 +4944,7 @@ usagovNC
   - wintervillenc.com
   - wrightschool.org
   - yadkinville.org
-usagovND
+usagovND:
   - ashley-nd.com
   - beulahnd.org
   - bismarck.org
@@ -5101,7 +5101,7 @@ usagovND
   - wishek-nd.com
   - wrtc.com/carson
   - wrtc.com/zapnd
-usagovNE
+usagovNE:
   - adamscounty.org
   - almacity.com
   - bellevue.net
@@ -5162,7 +5162,7 @@ usagovNE
   - valleyne.org
   - visitnebraska.com
   - waynecountyne.org
-usagovNH
+usagovNH:
   - albanynh.org
   - alexandrianh.com
   - alsteadnh.org
@@ -5334,7 +5334,7 @@ usagovNH
   - windhamnewhampshire.com
   - wolfeboronh.us
   - woodstocknh.org
-usagovNJ
+usagovNJ:
   - aberdeennj.org
   - aclink.org
   - ahnj.com
@@ -5846,7 +5846,7 @@ usagovNJ
   - wpnj.us
   - wvfas.org
   - wyckoff-nj.com
-usagovNM
+usagovNM:
   - aces.nmsu.edu/pubs
   - ashiwi.org
   - bloomfieldnm.com
@@ -5903,7 +5903,7 @@ usagovNM
   - utelake.com/Village
   - villageoftularosa.com
   - vtsv.org
-usagovNSN
+usagovNSN:
   - afognak.org
   - arctic.net/~newhalen/IliVillageCouncil
   - ashiwi.org
@@ -6113,7 +6113,7 @@ usagovNSN
   - wyandotte-nation.org
   - ysletadelsurpueblo.org
   - yuroktribe.org
-usagovNV
+usagovNV:
   - accessesmeralda.com
   - bcnv.org
   - carson.org
@@ -6151,7 +6151,7 @@ usagovNV
   - whitepinecounty.net
   - winnemucca.nv.us
   - yerington.net
-usagovNY
+usagovNY:
   - 511ny.org
   - airmont.org
   - albanycounty.com
@@ -6935,7 +6935,7 @@ usagovNY
   - yatescounty.org
   - yorktownny.org
   - youngstownnewyork.us
-usagovOH
+usagovOH:
   - 3riverscfc.org
   - andersontownship.org
   - archbold.com
@@ -7232,7 +7232,7 @@ usagovOH
   - woosteroh.com
   - worthington.org
   - yso.com
-usagovOK
+usagovOK:
   - adaok.com
   - alvaok.org
   - beaver.okcounties.org
@@ -7336,7 +7336,7 @@ usagovOK
   - tulsacounty.org
   - wildlifedepartment.com
   - woodwardcounty.org
-usagovOR
+usagovOR:
   - amtrakcascades.com
   - ashland.or.us
   - astoria.or.us
@@ -7496,7 +7496,7 @@ usagovOR
   - umatilla-city.org
   - union-county.org
   - waldport.org
-usagovPA
+usagovPA:
   - 3riverscfc.org
   - abington.org
   - adamscounty.us
@@ -8012,7 +8012,7 @@ usagovPA
   - yorktownship.com
   - youngwood.org
   - zelieboro.org
-usagovPR
+usagovPR:
   - fajardopr.org
   - gobierno.pr
   - gov.pr
@@ -8024,10 +8024,10 @@ usagovPR
   - sanjuan.pr
   - seepuertorico.com
   - uctp.org
-usagovPW
+usagovPW:
   - palaugov.org
   - palausupremecourt.net
-usagovQUASI
+usagovQUASI:
   - 1800runaway.org
   - 911digitalarchive.org
   - aapcc.org
@@ -8075,7 +8075,7 @@ usagovQUASI
   - watershedresourcesregistry.com
   - watershedresourcesregistry.org
   - wdl.org
-usagovRI
+usagovRI:
   - bristolri.us
   - burrillville.org
   - centralfallsri.us
@@ -8120,7 +8120,7 @@ usagovRI
   - westerly.govoffice.com
   - westwarwickri.org
   - wgtownri.org
-usagovSC
+usagovSC:
   - allendalecounty.com
   - andersoncountysc.org
   - arcadialakes.net
@@ -8313,7 +8313,7 @@ usagovSC
   - yemassee.net
   - yorkcitysc.com
   - yorkcountygov.com
-usagovSD
+usagovSD:
   - aberdeen.sd.us
   - artesiansd.com
   - baltic.govoffice.com
@@ -8390,7 +8390,7 @@ usagovSD
   - whitewood.govoffice.com
   - winnersd.org
   - woonsocketsd.com
-usagovTN
+usagovTN:
   - berryhilltn.org
   - bradleyco.net
   - brentwood-tn.org
@@ -8482,7 +8482,7 @@ usagovTN
   - washingtoncountytn.com
   - waynecountytn.org
   - wilsoncountytn.com
-usagovTX
+usagovTX:
   - abilenetx.com
   - agrilifeextension.tamu.edu
   - alamotexas.org
@@ -9006,7 +9006,7 @@ usagovTX
   - woodway-texas.com
   - wstx.us
   - ysletadelsurpueblo.org
-usagovUT
+usagovUT:
   - afcity.org
   - alpinecity.org
   - beaverutah.net
@@ -9150,7 +9150,7 @@ usagovUT
   - wjordan.com
   - woodscross.com
   - wt.govoffice.com
-usagovVA
+usagovVA:
   - 211.getcare.com
   - 211virginia.org
   - albemarle.org
@@ -9345,11 +9345,11 @@ usagovVA
   - wisecounty.org
   - wytheville.org
   - yesvirginia.org
-usagovVI
+usagovVI:
   - gov.vi
   - visitusvi.com
   - winusvilottery.com
-usagovVT
+usagovVT:
   - 1-800-vermont.com
   - barnetvt.org
   - barrecity.org
@@ -9509,7 +9509,7 @@ usagovVT
   - windsorvt.org/government
   - winhall.org
   - worcestervt.org
-usagovWA
+usagovWA:
   - aberdeeninfo.com
   - amtrakcascades.com
   - bingenwashington.org
@@ -9787,7 +9787,7 @@ usagovWA
   - wshfc.org
   - wssb.org
   - yakimacounty.us
-usagovWI
+usagovWI:
   - addisonwi.org
   - adellwi.govoffice2.com
   - algomacity.org
@@ -10212,7 +10212,7 @@ usagovWI
   - wisconsinhistory.org
   - wisspd.org
   - wrdaonline.org
-usagovWV
+usagovWV:
   - 3riverscfc.org
   - beckley.org
   - berkeleycountycomm.org
@@ -10267,7 +10267,7 @@ usagovWV
   - wvsto.com
   - wvtourism.com
   - wvwda.org
-usagovWY
+usagovWY:
   - carbonwy.com
   - ccgov.net
   - cheyennecity.org
@@ -10309,7 +10309,7 @@ usagovWY
   - wrightwyoming.com
   - wyomingbusiness.org
   - wyomingtourism.org
-LAgov
+LAgov:
   - angolamuseum.org
   - atchafalaya.org
   - codofil.org
@@ -10367,7 +10367,7 @@ LAgov
   - state.lib.la.us
   - trsl.org
   - volunteerlouisiana.gov
-NCgov
+NCgov:
   - battleshipnc.com
   - berrytownecrafts.com
   - bikesafenc.com
