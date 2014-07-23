@@ -1,0 +1,6 @@
+{ "properties" :
+  {
+    "collection" : {"type":"string", "store": "yes", "index":"not_analyzed"}
+  }
+}
+
