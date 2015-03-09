@@ -7,14 +7,14 @@ This is a list of government URLs that don't end in .gov or .mil.
 * Federal, state, local, [tribal](http://www.usa.gov/Government/Tribal-Sites/index.shtml), commonwealth, and territorial government agency websites
 * [Federal reserve banks and branches](http://www.federalreserve.gov/otherfrb.htm)
 * [Federal home loan banks](http://www.fhlbanks.com/contacts_mpi_atlanta.htm)
-* [Presidential libraries](http://www.archives.gov/presidential-libraries/)
-* [Military recruiting](http://answers.usa.gov/system/templates/selfservice/USAGov/#!portal/1012/article/2649/Joining-the-United-States-Military?fromQuery=military recruiting) websites
-* [Military service academies](http://answers.usa.gov/system/templates/selfservice/USAGov/#!portal/1012/article/3290/Military-Service-Academies)
-* [Travel and tourism](http://www.usa.gov/Citizen/Topics/Travel-Tourism/State-Tourism.shtml) sites for states and U.S. territories
+* Libraries, archives, and museums, including [Presidential libraries](http://www.archives.gov/presidential-libraries/)
+* Department of Defense websites for [recruiting](http://www.defense.gov/RegisteredSites/RegisteredSites.aspx?s=R) and [service academies](http://www.defense.gov/RegisteredSites/RegisteredSites.aspx?s=A)
+* [Travel and tourism](http://www.usa.gov/Citizen/Topics/Travel-Tourism/State-Tourism.shtml) websites for states and U.S. territories
 * [State lotteries](http://www.usa.gov/Topics/Lottery-Results.shtml)
 * [Cooperative extensions](http://www.csrees.usda.gov/Extension/USA-text.html)
 * [Combined federal campaigns](http://www.opm.gov/combined-federal-campaign/find-local-campaigns/locator/)
 * [Government sponsored enterprises](http://assets.opencrs.com/rpts/RS21663_20080909.pdf) (such as Fannie Mae) [PDF]
+* Federal and state retirement systems
 * Task forces (such as the Preventative Services Task Force) and commissions (such as the 9/11 Commission)
 * A few select, nongoverment organizations (such as the Red Cross) and public-private partnerships
 
