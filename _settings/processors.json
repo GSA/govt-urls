@@ -1,6 +1,0 @@
-{
-  "urls": {
-    "processor"           : "url_processor",
-    "mappings" : "_defaults/urls_mappings.json"
-  }
-}
