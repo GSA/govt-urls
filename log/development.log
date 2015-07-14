@@ -1377,3 +1377,11 @@ Processing by Api::GovernmentUrlController#search as JSON
   Parameters: {"size"=>"100"}
 Filter chain halted as #<Proc:0x007fe3362b8d80@/Users/tmh/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.3/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
 Completed 401 Unauthorized in 1ms
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-14 11:11:34 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (19.0ms)
+Completed 200 OK in 87ms (Views: 29.3ms)
