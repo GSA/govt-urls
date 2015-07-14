@@ -12,8 +12,8 @@ class GovernmentUrlQuery
     @offset = options[:offset].to_i
     @size   = [options[:size].to_i, MAX_SIZE].min
     @q      = options[:q].downcase if options[:q].present?
-    @states = options[:states].downcase.split(',') if options[:states].present?
-    @scope_ids = options[:scope_ids].downcase.split(',') if options[:scope_ids].present?
+    @states = options[:states].upcase.split(',') if options[:states].present?
+    @scope_ids = options[:scope_ids].split(',') if options[:scope_ids].present?
   
   end
 
@@ -29,7 +29,7 @@ class GovernmentUrlQuery
       json.bool do
         json.must do
           json.child! { json.terms { json.states @states } } if @states
-          json.child! { json.terms { json.states @scope_ids } } if @scope_ids
+          json.child! { json.terms { json.scope_id @scope_ids } } if @scope_ids
         end
       end
     end if @states || @scope_ids
@@ -40,7 +40,8 @@ class GovernmentUrlQuery
       json.bool do
         json.must do
           json.child! do
-            generate_multi_match(json, %w(name parents scope_note), @q)
+            generate_multi_match(json, %w(name parents scope_note related_terms 
+              equivalent_related_terms non_preferred_terms preferred_terms), @q)
           end if @q
         end
       end

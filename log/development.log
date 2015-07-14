@@ -1385,3 +1385,115 @@ Processing by Api::GovernmentUrlController#search as JSON
 Unpermitted parameter: format
   Rendered api/government_url/search.json.jbuilder (19.0ms)
 Completed 200 OK in 87ms (Views: 29.3ms)
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-14 12:48:09 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (20.6ms)
+Completed 200 OK in 52ms (Views: 24.4ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=ga,al,va" for ::1 at 2015-07-14 12:48:26 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"ga,al,va"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 10ms (Views: 3.7ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=ga" for ::1 at 2015-07-14 12:48:31 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"ga"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.1ms)
+Completed 200 OK in 52ms (Views: 1.8ms)
+
+
+Started GET "/api/government_urls/search?size=100&" for ::1 at 2015-07-14 12:48:35 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (19.2ms)
+Completed 200 OK in 50ms (Views: 21.1ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=GA" for ::1 at 2015-07-14 12:48:45 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"GA"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.2ms)
+Completed 200 OK in 9ms (Views: 1.9ms)
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-14 12:48:49 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (21.2ms)
+Completed 200 OK in 52ms (Views: 23.1ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=GA" for ::1 at 2015-07-14 12:50:23 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"GA"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.2ms)
+Completed 200 OK in 13ms (Views: 2.6ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=GA" for ::1 at 2015-07-14 12:50:24 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"GA"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.2ms)
+Completed 200 OK in 9ms (Views: 2.4ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=GA" for ::1 at 2015-07-14 12:52:22 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"GA"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.2ms)
+Completed 200 OK in 7ms (Views: 2.0ms)
+
+
+Started GET "/api/government_urls/search?size=100&scope_ids=usagovFEDgov" for ::1 at 2015-07-14 12:52:32 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "scope_ids"=>"usagovFEDgov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.3ms)
+Completed 200 OK in 9ms (Views: 2.8ms)
+
+
+Started GET "/api/government_urls/search?size=100&scope_ids=usagovFEDgov" for ::1 at 2015-07-14 12:53:23 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "scope_ids"=>"usagovFEDgov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (37.2ms)
+Completed 200 OK in 72ms (Views: 39.8ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=ga,al,va" for ::1 at 2015-07-14 12:57:38 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"ga,al,va"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (17.4ms)
+Completed 200 OK in 49ms (Views: 20.1ms)
+
+
+Started GET "/api/government_urls/search?size=100&q=voa.gov" for ::1 at 2015-07-14 12:58:00 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.5ms)
+Completed 200 OK in 13ms (Views: 3.2ms)
+
+
+Started GET "/api/government_urls/search?size=100&q=voa.gov" for ::1 at 2015-07-14 12:59:21 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 19ms (Views: 2.9ms)
