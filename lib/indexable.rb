@@ -17,7 +17,7 @@ module Indexable
   end
 
   def assign_index_type
-    self.index_type = name.underscore.freeze
+    self.index_type = name.underscore.to_sym.freeze
   end
 
   def create_index
@@ -70,6 +70,30 @@ module Indexable
       sort:  query.sort)['hits'].deep_symbolize_keys
     hits[:offset] = query.offset
     hits.deep_symbolize_keys
+  end
+
+  def purge_old(before_time)
+    fail 'This model is unable to purge old documents' unless can_purge_old?
+    body = {
+      query: {
+        filtered: {
+          filter: {
+            range: {
+              _timestamp: {
+                lt: (before_time.to_f * 1000.0).to_i,
+              },
+            },
+          },
+        },
+      },
+    }
+
+    ES.client.delete_by_query(index: index_name, body: body)
+  end
+
+  def can_purge_old?
+    timestamp_field = mappings[name.underscore.to_sym][:_timestamp]
+    timestamp_field && timestamp_field[:enabled] && timestamp_field[:store]
   end
 
 end

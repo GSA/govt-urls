@@ -1,0 +1,14 @@
+<vocabularyservices>
+	<result>
+		<term>
+			<term_id>11180</term_id>
+			<code></code>
+			<lang>en</lang>
+			<string>voa.gov</string>
+			<relation_type_id>4</relation_type_id>
+			<relation_type>UF</relation_type>
+			<relation_code></relation_code>
+			<relation_label></relation_label>
+		</term>
+	</result>
+</vocabularyservices>

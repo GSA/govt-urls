@@ -1497,3 +1497,70 @@ Processing by Api::GovernmentUrlController#search as JSON
 Unpermitted parameter: format
   Rendered api/government_url/search.json.jbuilder (0.6ms)
 Completed 200 OK in 19ms (Views: 2.9ms)
+
+
+Started GET "/api/government_urls/search?size=100&states=ga,al,va" for ::1 at 2015-07-14 16:32:34 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "states"=>"ga,al,va"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (24.1ms)
+Completed 200 OK in 54ms (Views: 26.9ms)
+
+
+Started GET "/api/government_urls/search?size=100&scope_ids=usagovFEDgov" for ::1 at 2015-07-14 16:32:35 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100", "scope_ids"=>"usagovFEDgov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (20.5ms)
+Completed 200 OK in 58ms (Views: 22.5ms)
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-14 16:32:40 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (18.3ms)
+Completed 200 OK in 44ms (Views: 21.3ms)
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-15 11:26:51 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (34.5ms)
+Completed 500 Internal Server Error in 111ms
+
+ActionView::Template::Error (undefined local variable or method `government_url' for #<#<Class:0x007fff3fc3f000>:0x007fff3fc3e5d8>):
+    2: json.results do
+    3:   json.array! @search[:hits] do |hit|
+    4:     entry = hit.deep_symbolize_keys
+    5:     json.id government_url[:_id]
+    6:     json.call(entry[:_source],
+    7:           :name, :parents, :states, :creation_date, :last_modified_date, :scope_note, :scope_id,
+    8:           :related_terms, :equivalent_related_terms, :non_preferred_terms, :preferred_terms
+  app/views/api/government_url/search.json.jbuilder:5:in `block (2 levels) in _app_views_api_government_url_search_json_jbuilder___4234046526176181513_70367131514400'
+  app/views/api/government_url/search.json.jbuilder:3:in `block in _app_views_api_government_url_search_json_jbuilder___4234046526176181513_70367131514400'
+  app/views/api/government_url/search.json.jbuilder:2:in `_app_views_api_government_url_search_json_jbuilder___4234046526176181513_70367131514400'
+  app/controllers/api/government_url_controller.rb:8:in `search'
+
+
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.4ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.1ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (34.0ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (25.5ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tmh/.rvm/gems/ruby-2.1.2/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (57.1ms)
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-15 12:43:00 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (32.0ms)
+Completed 200 OK in 58ms (Views: 33.9ms)

@@ -1,0 +1,29 @@
+<vocabularyservices>
+	<result>
+		<term>
+			<term_id>17</term_id>
+			<code>usagovFED</code>
+			<lang>en</lang>
+			<string>usagovFED</string>
+		</term>
+		<term>
+			<term_id>11928</term_id>
+			<code>usagovFEDgov</code>
+			<lang>en</lang>
+			<string>usagovFEDgov</string>
+		</term>
+		<term>
+			<term_id>43</term_id>
+			<code>usagovFL</code>
+			<lang>en</lang>
+			<string>usagovFL</string>
+		</term>
+		<term>
+			<term_id>7777</term_id>
+			<code>z usagovFL</code>
+			<lang>en</lang>
+			<string>z usagovFL</string>
+		</term>
+
+	</result>
+</vocabularyservices>

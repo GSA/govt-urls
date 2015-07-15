@@ -1,0 +1,458 @@
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 11:20:57 -0400
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 11:25:05 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (2.1ms)
+Completed 200 OK in 32ms (Views: 18.4ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 11:25:58 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (6.1ms)
+Completed 500 Internal Server Error in 32ms
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 12:46:33 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (2.2ms)
+Completed 200 OK in 33ms (Views: 17.7ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 12:59:22 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.3ms)
+Completed 200 OK in 27ms (Views: 12.7ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:00:05 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (14.7ms)
+Completed 200 OK in 43ms (Views: 24.9ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:04:45 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 32ms (Views: 14.1ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:04:45 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:06:42 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.2ms)
+Completed 200 OK in 27ms (Views: 9.0ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:06:43 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:06:43 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:07:24 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 28ms (Views: 10.4ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:07:24 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:07:24 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:09:37 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 31ms (Views: 12.9ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:09:38 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:09:38 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:09:38 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 1.3ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:37:54 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (2.3ms)
+Completed 200 OK in 32ms (Views: 17.9ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:37:55 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 7ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:37:55 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:37:55 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:38:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.3ms)
+Completed 200 OK in 28ms (Views: 11.0ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:38:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.1ms)
+Completed 200 OK in 7ms (Views: 1.8ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:38:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:38:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.7ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:38:59 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.2ms)
+Completed 200 OK in 28ms (Views: 11.0ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:39:00 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.8ms)
+Completed 200 OK in 9ms (Views: 1.4ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:39:00 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.8ms)
+Completed 200 OK in 8ms (Views: 1.6ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:39:00 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 1.3ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:39:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.2ms)
+Completed 200 OK in 25ms (Views: 9.2ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:39:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:39:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:39:28 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:40:03 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 26ms (Views: 10.4ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:40:03 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 1.4ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:40:03 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:40:03 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.7ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 13:40:48 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 27ms (Views: 11.8ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 13:40:48 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 13:40:48 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 13:40:48 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 14:23:15 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.2ms)
+Completed 200 OK in 25ms (Views: 11.8ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 14:23:15 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 7ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 14:23:15 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.5ms)
+Completed 200 OK in 5ms (Views: 1.0ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 14:23:15 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 14:24:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.1ms)
+Completed 200 OK in 23ms (Views: 10.0ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 14:24:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 14:24:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.5ms)
+Completed 200 OK in 6ms (Views: 1.0ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 14:24:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 5ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 14:28:11 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (1.4ms)
+Completed 200 OK in 27ms (Views: 11.8ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 14:28:11 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.7ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 14:28:11 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.4ms)
+Completed 200 OK in 5ms (Views: 0.9ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 14:28:11 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.1ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 3 entries to index test:government_url
+Started GET "/api/government_urls/search?size=50" for 127.0.0.1 at 2015-07-15 14:29:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"50"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (2.4ms)
+Completed 200 OK in 35ms (Views: 19.5ms)
+Started GET "/api/government_urls/search?q=voa.gov" for 127.0.0.1 at 2015-07-15 14:29:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"q"=>"voa.gov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.7ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Started GET "/api/government_urls/search?states=fl" for 127.0.0.1 at 2015-07-15 14:29:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"states"=>"fl"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.6ms)
+Completed 200 OK in 6ms (Views: 1.0ms)
+Started GET "/api/government_urls/search?scope_ids=usagov" for 127.0.0.1 at 2015-07-15 14:29:14 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"scope_ids"=>"usagov"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (0.7ms)
+Completed 200 OK in 6ms (Views: 1.2ms)
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock
+Imported 2 entries to index test:mock

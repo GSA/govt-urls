@@ -1,0 +1,13 @@
+{
+  "filter": {
+    "bool": {
+      "must": [
+        {
+          "terms": {
+            "scope_id": ["usagovFEDgov"]
+          }
+        }
+      ]
+    }
+  }
+}

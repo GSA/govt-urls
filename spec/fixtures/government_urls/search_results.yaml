@@ -1,0 +1,51 @@
+---
+- :id: '11179'
+  :name: voanews.com
+  :parents:
+  - usagovFED
+  :states: []
+  :creation_date: '2013-07-31'
+  :last_modified_date: '2013-07-31'
+  :scope_note: Voice of America (see http://www.bbg.gov/broadcasters/voa/).
+  :scope_id: usagov
+  :related_terms:
+  - alhurra.com
+  - martinoticias.com
+  - radiosawa.com
+  - rfa.org
+  - rferl.org
+  :equivalent_related_terms: []
+  :non_preferred_terms:
+  - voa.gov
+  :preferred_terms: []
+- :id: '12992'
+  :name: voa.gov
+  :parents:
+  - usagovFEDgov
+  :states: []
+  :creation_date: '2015-06-10'
+  :last_modified_date: '2015-06-10'
+  :scope_note: ''
+  :scope_id: usagovFEDgov
+  :related_terms: []
+  :equivalent_related_terms: []
+  :non_preferred_terms: []
+  :preferred_terms:
+  - voanews.com
+- :id: '11903'
+  :name: cityofstuart.com
+  :parents:
+  - usagovFED
+  - usagovFL
+  :states:
+  - FL
+  :creation_date: '2014-11-19'
+  :last_modified_date: '2014-11-19'
+  :scope_note: City of Stuart, FL
+  :scope_id: usagov
+  :related_terms:
+  - ci.stuart.fl.us
+  :equivalent_related_terms:
+  - cityofstuart.us
+  :non_preferred_terms: []
+  :preferred_terms: []

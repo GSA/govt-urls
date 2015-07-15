@@ -1,0 +1,24 @@
+<vocabularyservices>
+	<result>
+		<term>
+			<term_id>11904</term_id>
+			<code></code>
+			<lang>en</lang>
+			<string>ci.stuart.fl.us</string>
+			<relation_type_id>2</relation_type_id>
+			<relation_type>RT</relation_type>
+			<relation_code></relation_code>
+			<relation_label></relation_label>
+		</term>
+		<term>
+			<term_id>2640</term_id>
+			<code></code>
+			<lang>en</lang>
+			<string>cityofstuart.us</string>
+			<relation_type_id>2</relation_type_id>
+			<relation_type>RT</relation_type>
+			<relation_code>ET</relation_code>
+			<relation_label>Equivalent term</relation_label>
+		</term>
+	</result>
+</vocabularyservices>
