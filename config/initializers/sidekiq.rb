@@ -1,7 +1,7 @@
 require 'sidekiq'
 require 'autoscaler/sidekiq'
 require 'autoscaler/heroku_scaler'
-
+# :nocov:
 heroku = nil
 if ENV['HEROKU_APP']
   heroku = Autoscaler::HerokuScaler.new
@@ -25,3 +25,4 @@ Sidekiq.configure_server do |config|
     end
   end
 end
+# :nocov:
