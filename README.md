@@ -74,7 +74,7 @@ Combine parameters with &:  https://govt-urls.herokuapp.com/api/government_urls/
 
 ### Ruby
 
-The project requires (Ruby 2.2.2)[https://www.ruby-lang.org/en/downloads/].
+The project requires [Ruby 2.2.2](https://www.ruby-lang.org/en/downloads/).
 
 ### Gems
 
@@ -111,6 +111,6 @@ Sidekiq must be running to import the data into Elasticsearch.
 
 ### Viewing the Results
 
-	Navigate to (http://localhost:3000/api/government_urls/search?)[http://localhost:3000/api/government_urls/search?].
+	Navigate to [http://localhost:3000/api/government_urls/search?](http://localhost:3000/api/government_urls/search?).
 
 
