@@ -93,7 +93,7 @@ Otherwise, follow the [instructions](http://www.elasticsearch.org/download/) to 
 
 ### Redis
 
-You'll need to have redis installed on your machine. `brew install redis`, `apt-get install redis-server`, etc.  Redis must also be running locally and can be started with the 'redis-server' command.
+You'll need to have redis installed on your machine. `brew install redis`, `apt-get install redis-server`, etc.  Redis must also be running locally and can be started with the `redis-server` command.
 
 ### Starting the Server
 
@@ -111,6 +111,6 @@ Sidekiq must be running to import the data into Elasticsearch.
 
 ### Viewing the Results
 
-	Navigate to [http://localhost:3000/api/government_urls/search?](http://localhost:3000/api/government_urls/search?).
+Navigate to [http://localhost:3000/api/government_urls/search?](http://localhost:3000/api/government_urls/search?).
 
 
