@@ -1564,3 +1564,12 @@ Processing by Api::GovernmentUrlController#search as JSON
 Unpermitted parameter: format
   Rendered api/government_url/search.json.jbuilder (32.0ms)
 Completed 200 OK in 58ms (Views: 33.9ms)
+Imported 11410 entries to index development:government_url
+
+
+Started GET "/api/government_urls/search?size=100" for ::1 at 2015-07-15 17:01:02 -0400
+Processing by Api::GovernmentUrlController#search as JSON
+  Parameters: {"size"=>"100"}
+Unpermitted parameter: format
+  Rendered api/government_url/search.json.jbuilder (45.6ms)
+Completed 200 OK in 129ms (Views: 51.9ms)

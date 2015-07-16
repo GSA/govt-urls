@@ -1,2 +1,2 @@
 web: bin/rails server -p $PORT -e $RAILS_ENV
-worker: bundle exec rake tematres:import
+worker: bundle exec sidekiq
