@@ -16,10 +16,10 @@ describe 'Government Urls API', type: :request do
     TematresImporter.new(resource_hash).import
   end
 
-  let(:search_path) { '/api/government_urls/search' }
+  let(:search_path) { '/government_urls/search' }
   let(:expected_results) { YAML.load_file("#{Rails.root}/spec/fixtures/government_urls/search_results.yaml") }
 
-  describe 'GET /api/government_urls/search.json' do
+  describe 'GET /government_urls/search.json' do
 
     context 'when search parameters are empty' do
       before { get search_path, { size: 50 } }
