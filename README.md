@@ -51,14 +51,14 @@ We've also made this list of government URLs available as an API. Keep reading b
 
 # Government URLs API
 
-The API is accessible here: https://govt-urls.api.usa.gov/government_urls/search?
+The API is accessible here: http://govt-urls.api.usa.gov/government_urls/search?
 Search parameters:
-* q (keyword):  https://govt-urls.api.usa.gov/government_urls/search?q=voa.gov
-* states:   https://govt-urls.api.usa.gov/government_urls/search?states=va,ga
-* scope_ids:  https://govt-urls.api.usa.gov/government_urls/search?scope_ids=usagovFEDgov
-* size:  https://govt-urls.api.usa.gov/government_urls/search?size=100
-* offset:  https://govt-urls.api.usa.gov/government_urls/search?offset=100
-Combine parameters with &:  https://govt-urls.api.usa.gov/government_urls/search?size=100&states=va,ga
+* q (keyword):  http://govt-urls.api.usa.gov/government_urls/search?q=voa.gov
+* states:   http://govt-urls.api.usa.gov/government_urls/search?states=va,ga
+* scope_ids:  http://govt-urls.api.usa.gov/government_urls/search?scope_ids=usagovFEDgov
+* size:  http://govt-urls.api.usa.gov/government_urls/search?size=100
+* offset:  http://govt-urls.api.usa.gov/government_urls/search?offset=100
+Combine parameters with &:  http://govt-urls.api.usa.gov/government_urls/search?size=100&states=va,ga
 
 # Running the API Locally
 
