@@ -1,10 +1,10 @@
-# Source code
+# Source Code
 
 The code that runs the DigitalGov Search [Non-.gov URLs API](http://search.digitalgov.gov/developer/govt-urls.html)&mdash;a list of government URLs that don't end in .gov or .mil.&mdash;is here on Github. If you're a Ruby developer, keep reading. Fork this repo to add features (such as additional datasets) or fix bugs.
 
 The documentation on request parameters and response format is on the [API developer page](http://search.digitalgov.gov/developer/govt-urls.html). This README just covers software development of the API service itself.
 
-# Data source
+# Data Source
 
 We maintain this list at <http://govt-urls.usa.gov/tematres/vocab/index.php> and make periodic updates as we come across changes.
 
@@ -65,8 +65,6 @@ Sidekiq must be running to import the data into Elasticsearch.
 
 Navigate to [http://localhost:3000/government_urls/search?](http://localhost:3000/government_urls/search?).
 
-# A Tip of the Hat
-
-A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you can find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
+## Contributing
 
 We welcome comments and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>.
