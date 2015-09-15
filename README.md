@@ -69,4 +69,4 @@ Navigate to [http://localhost:3000/government_urls/search?](http://localhost:300
 
 A tip of the hat to Marilyn Kercher. She started this list many years ago and took it as her personal mission to ensure you can find information from any government website&mdash;including those that don't end in .gov or .mil&mdash;when you search on [USA.gov](http://www.usa.gov). She would be thrilled to learn that this list is now open for anyone to access.
 
-We welcome comments and additions. [Contribute](/CONTRIBUTING.md) directly to this list or email us at <search@support.digitalgov.gov>.
+We welcome comments and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>.
