@@ -5,7 +5,7 @@ Scope: Federal, state, local, tribal, and territorial government websites that a
 
 Quarterly updates are also posted at https://github.com/GSA/govt-urls.
 URI: http://govt-urls.usa.gov/tematres/vocab/
-Powered by: TemaTres 1.63
+Powered by: TemaTres 2.0
 __________________________________________________________________________
 usagovAK
  .	afognak.org
@@ -158,7 +158,6 @@ usagovAL
  .	fortpayne.org
  .	fultondale.com
  .	guinal.org
- .	gulfofmexicoalliance.org
  .	guntersvilleal.org
  .	hamiltoncityal.org
  .	hartselle.org
@@ -224,7 +223,6 @@ usagovAR
  .	ark-ives.com
  .	arkansas.com
  .	arkansasctf.org
- .	arkansased.org
  .	arkansased.org
  .	arkansasedc.com
  .	arkansasethics.com
@@ -355,6 +353,7 @@ usagovCA
  .	alamedahsg.org
  .	albanyca.org
  .	amador-city.com/government
+ .	amadorcity.net
  .	anaheim.net
  .	applevalley.org
  .	arroyogrande.org
@@ -852,7 +851,6 @@ usagovCA
  .	sandcity.org
  .	sandi.net
  .	sangabrielcity.com
- .	sangabrielcity.com
  .	sanjuancapistrano.org
  .	sanleandro.org
  .	santa-clarita.com
@@ -1292,7 +1290,6 @@ usagovFED
  .	gocivilairpatrol.com
  .	gocoastguard.com
  .	godirect.org
- .	gulfofmexicoalliance.org
  .	homelandsecurity.conferenceon.tv
  .	hsdl.org
  .	hubblesite.org
@@ -1343,6 +1340,7 @@ usagovFED
  .	nationalserviceresources.org
  .	nationalzoostore.tamretail.net
  .	navy.com
+ .	navyoutreach.org
  .	navyreserve.com
  .	ncjrs.org
  .	ndu.edu
@@ -1426,6 +1424,8 @@ usagovFED
  .	voanews.com
  .	voatour.com
  .	westpoint.edu
+ .	yes-abroad.org
+ .	yesprograms.org
 usagovFEDgov
  .	404.gov
  .	9-11commission.gov
@@ -2783,7 +2783,6 @@ usagovFEDgov
  .	youthgo.gov
  .	youthrules.gov
 usagovFL
- .	abletrust.org
  .	alachuacounty.us
  .	altamonte.org
  .	apdcares.org
@@ -2795,7 +2794,6 @@ usagovFL
  .	barrierislandscouncil.com
  .	bayharborislands.org
  .	belleairbluffs.org
- .	biketallahassee.com
  .	brevardcounty.us
  .	broward.org
  .	browardchd.org
@@ -2874,7 +2872,6 @@ usagovFL
  .	coj.net
  .	colliergov.net
  .	columbiacountyfla.com
- .	consensus.fsu.edu
  .	coopercityfl.org
  .	coralgables.com
  .	coralsprings.org
@@ -2889,26 +2886,18 @@ usagovFL
  .	dunnellon.org
  .	eaglelake-fla.com
  .	ecfrpc.org
- .	edis.ifas.ufl.edu
- .	eflorida.com
  .	escarosacfc.org
  .	eustis.org
- .	extension.ifas.ufl.edu
  .	fbfl.us
  .	fcsw.net
- .	fddc.org
  .	flaglercounty.org
  .	flalottery.com
- .	flarecovery.com
- .	flclerks.com
  .	flcourts.org
  .	fldoe.org
- .	flgisa.org
  .	flgov.com
  .	flofr.com
  .	floir.com
  .	floridacounterdrug.com
- .	floridafathers.org
  .	floridamarine.org
  .	floridaredistricting.org
  .	floridatracking.com
@@ -2917,18 +2906,14 @@ usagovFL
  .	franklincountyflorida.com
  .	freshfromflorida.com
  .	fruitlandpark.org
- .	fscia.org
  .	fwb.org
  .	gadsdengov.net
  .	gilchrist.fl.us
  .	greencovesprings.com
- .	gulfofmexicoalliance.org
  .	hallandalebeach.org
  .	hamiltoncountyflorida.com
  .	hardeecounty.net
  .	hcbcc.net
- .	healthcouncils.org
- .	healthykids.org
  .	hendryfla.net
  .	highsprings.us
  .	hillsboroughcounty.org
@@ -2937,6 +2922,7 @@ usagovFL
  .	hollywoodfl.org
  .	holmesbeachfl.org
  .	hypoluxo.org
+ .	ifas.ufl.edu
  .	indialantic.com
  .	ircgov.com
  .	itsmymaitland.com
@@ -2994,7 +2980,6 @@ usagovFL
  .	nassauclerk.com
  .	nassaucountyfl.com
  .	nbvillage.com
- .	ncflepc.org
  .	ncfrpc.org
  .	nefl-sega-cfc.org
  .	nefrpc.org
@@ -4221,6 +4206,7 @@ usagovLA
  .	claiborneone.org
  .	codofil.org
  .	cppj.net
+ .	crawfish.org
  .	crowley-la.com
  .	eunice-la.com
  .	farmerville.org
@@ -4228,31 +4214,41 @@ usagovLA
  .	getagameplan.org
  .	gonzalesla.com
  .	gretnala.com
- .	gulfofmexicoalliance.org
+ .	groupbenefits.org
  .	hammond.org
  .	iberiaparishgovernment.com
  .	iowala.org
  .	jeffparish.net
+ .	labenfa.com
  .	labp.com
  .	labswe.org
  .	lachiropracticboard.com
  .	lacisd.org
+ .	lacourtreporterboard.com
+ .	laeggs.com
  .	lafourchegov.org
+ .	lalb.org
  .	lapels.com
  .	laptboard.org
+ .	lasc.org
  .	lastbdarchs.com
  .	laworkforce.net/wfc
+ .	laworks.net
  .	lbedn.org
  .	lbespa.org
  .	lincolnparish.org
  .	loreauville.us
+ .	louisianacda.com
  .	louisianalottery.com
+ .	louisianataxfree.com
  .	louisianatravel.com
  .	lpcboard.org
  .	lpgov.org
  .	lrcboard.org
  .	lsbd.org
  .	lsbep.org
+ .	lsbes.org
+ .	lsbid.org
  .	lsbpie.com
  .	lsbpne.com
  .	lsbvm.org
@@ -4269,6 +4265,7 @@ usagovLA
  .	pineville.net
  .	plaquemine.org
  .	portallen.org
+ .	portgbr.com
  .	rayne.org
  .	rootsweb.com/~la-lghs
  .	rppj.com
@@ -4276,6 +4273,7 @@ usagovLA
  .	sbpg.net
  .	sjbparish.com
  .	springhillla.com
+ .	state.la.us
  .	state.lib.la.us
  .	stfrancisville.net
  .	stjamesla.com
@@ -4725,7 +4723,7 @@ usagovME
  .	westbrookmaine.com
  .	westportisland.us
  .	wiltonmaine.org
- .	windhamweb.com
+ .	windhammaine.us
  .	winslowmaine.org
  .	winthropmaine.org
  .	wiscasset.org
@@ -5466,13 +5464,11 @@ usagovMO
  .	auxvassemo.com
  .	avamissouri.org
  .	ballwin.mo.us
- .	battlefieldmo.org
  .	belton.org
  .	bethanymo.com
  .	bluespringsgov.com
  .	bonneterre.net
  .	books.missouri.org
- .	boonslick.org
  .	boonville-mo.org
  .	brentwoodmo.org
  .	bridgetonmo.com
@@ -5525,6 +5521,7 @@ usagovMO
  .	cityofls.net
  .	cityofmaplewood.com
  .	cityofmarblehill.com
+ .	cityofmarthasvillemo.org
  .	cityofmonett.com
  .	cityofoakgrove.com
  .	cityofodessamo.com
@@ -5538,6 +5535,8 @@ usagovMO
  .	cityofshrewsbury.com
  .	cityofslater.com
  .	cityofstjohn.org
+ .	cityoftroymissouri.com
+ .	cityoftruesdalemo.org
  .	cityofversailles.org
  .	cityofwildwood.com
  .	cityofwillard.org
@@ -5561,6 +5560,7 @@ usagovMO
  .	duenwegmo.com
  .	eastprairiemo.net
  .	ellisville.mo.us
+ .	elsberrycity.com
  .	eureka.mo.us
  .	ewgateway.org
  .	extension.missouri.edu
@@ -5568,6 +5568,7 @@ usagovMO
  .	fentonmo.org
  .	fergusoncity.com
  .	florissantmo.com
+ .	foleymissouri.com
  .	franklinmo.org
  .	fultonmo.org
  .	gatewaycfc.org
@@ -5607,6 +5608,7 @@ usagovMO
  .	lakesaintlouis.com
  .	lakewaukomis.org
  .	lathropmissouri.org
+ .	lcmo.us
  .	lebanonmissouri.org
  .	lincolnmissouri.com
  .	livelakeozarks.com
@@ -5615,6 +5617,7 @@ usagovMO
  .	marshall-mo.com
  .	marylandheights.com
  .	maryville.org
+ .	mcmo.us
  .	mdfb.org
  .	meramecregion.org
  .	mexicomissouri.net
@@ -5628,13 +5631,16 @@ usagovMO
  .	moguard.com
  .	mohumanities.org
  .	molottery.com
+ .	montgomerycitymo.org
  .	montrosemissouri.com
+ .	moscowmillsmo.com
  .	mountaingrove.net
  .	movolunteers.org
  .	mtvernon-cityhall.org
  .	neoshomo.org
  .	nevadamo.org
  .	new-madrid.mo.us
+ .	newflorencemo.com
  .	newfranklin.missouri.org
  .	newhavenmo.org
  .	newmelle.org
@@ -5695,6 +5701,7 @@ usagovMO
  .	villageofinnsbrook.org
  .	villageofmarlborough.com
  .	visitmo.com
+ .	warrencountymo.org
  .	warrensburg-mo.com
  .	warrenton-mo.org
  .	warsonwoods.com
@@ -5761,7 +5768,6 @@ usagovMS
  .	greatermscfc.org
  .	greenvillems.org
  .	greenwoodms.com
- .	gulfofmexicoalliance.org
  .	hattiesburgms.com
  .	hindscountyms.com
  .	hornlake.org
@@ -5900,6 +5906,7 @@ usagovNC
  .	biltmoreforesttownhall.homestead.com
  .	bladennc.govoffice3.com
  .	bmbt.org
+ .	bmcnc.org
  .	boilingspringlakes.com
  .	boilingspringsnc.net
  .	brunsco.net
@@ -5995,7 +6002,9 @@ usagovNC
  .	cravencounty.com
  .	cwmtf.net
  .	dallasnc.net
+ .	desncc.com
  .	dornc.com
+ .	driving95.com
  .	dunn-nc.org
  .	duplincountync.com
  .	eatsmartmovemorenc.com
@@ -6040,6 +6049,8 @@ usagovNC
  .	itsok2ask.com
  .	jacksonnc.org
  .	jamestown-nc.us
+ .	jfkadatc.net
+ .	jirdc.org
  .	johnstonnc.com
  .	kdhnc.com
  .	lakeparknc.com
@@ -6078,7 +6089,6 @@ usagovNC
  .	ncartmuseum.org
  .	ncarts.org
  .	ncauditor.net
- .	ncbar.com
  .	ncbarch.org
  .	ncbate.org
  .	ncbdn.org
@@ -6100,7 +6110,6 @@ usagovNC
  .	ncbusinesscourt.net
  .	ncbussafety.org
  .	ncbytrain.org
- .	nccbsw.org
  .	nccgl.net
  .	ncchildsupport.com
  .	ncchiroboard.com
@@ -6118,7 +6127,6 @@ usagovNC
  .	ncdoi.com
  .	ncdoj.com
  .	ncems.org
- .	ncesc.com
  .	ncesf.org
  .	ncfarmfresh.com
  .	ncfarmtoschool.com
@@ -6181,6 +6189,7 @@ usagovNC
  .	ncstatefair.org
  .	ncstormwater.org
  .	ncsu.edu/extension
+ .	ncswboard.org
  .	ncsymphony.org
  .	nctobaccofreeschools.org
  .	nctopps.ncdmh.net
@@ -6235,6 +6244,7 @@ usagovNC
  .	spring-lake.org
  .	sprucepineonline.com
  .	startsquad.org
+ .	state.nc.us
  .	summerfieldgov.com
  .	surfcity.govoffice.com
  .	surpluspropertydivision.com
@@ -6586,7 +6596,6 @@ usagovNH
  .	hillsboroughcountynh.org
  .	hinsdale.govoffice.com
  .	hollis.nh.us
- .	home.webryders.net/surry
  .	homepages.sover.net/~townoff
  .	hooksett.org
  .	jacksonvillage.net
@@ -6675,6 +6684,7 @@ usagovNH
  .	townoflittleton.org
  .	townofnewipswich.org
  .	townofpeterborough.com
+ .	townofsurry.org
  .	townofthornton.org
  .	troy-nh.us
  .	tuftonboro.org
@@ -8665,6 +8675,7 @@ usagovOK
  .	okcareertech.org
  .	okdhs.org
  .	oklahomacounty.org
+ .	oklibshare.org
  .	oklpgas.org
  .	origins.ou.edu
  .	oscn.net
@@ -8687,7 +8698,6 @@ usagovOK
  .	tillmancounty.org
  .	tishomingo.com
  .	townofvelma.com
- .	townofverdigris.com
  .	travelok.com
  .	tulsacouncil.org
  .	tulsacounty.org
@@ -8861,6 +8871,7 @@ usagovPA
  .	akron-pa.com
  .	alburtis.org
  .	alleghenycounty.us
+ .	alleghenytownship.net
  .	allentownship.org
  .	ambridgeboro.org
  .	apollopa.org
@@ -8879,10 +8890,13 @@ usagovPA
  .	bellevueboro.com
  .	benavon.com
  .	benavonheightsborough.com
+ .	bennertownship.org
  .	bensalemtwp.org
  .	berwickborough.org
+ .	berwicktownship.com
  .	bethelpark.net
  .	bethlehemtwp.com
+ .	blackcreektownship.org
  .	blairco.org
  .	bloomsburgpa.org
  .	blossburg.org
@@ -8903,14 +8917,19 @@ usagovPA
  .	boroughwestmifflin.com
  .	bradfordcountypa.org
  .	bradfordpa.com
+ .	bradfordtwpmckeancnty.jimdo.com
  .	bradfordwoodspa.org
+ .	bradytwp.us
  .	brentwoodboro.com
+ .	briarcreektwp.org
  .	bridgevilleboro.com
  .	brightontwp.org
  .	bristoltownship.org
  .	brookhavenboro.com
  .	buckinghampa.org
  .	buckscounty.org
+ .	buffalotownship.com
+ .	bushkilltownship.com
  .	butlertwp.org
  .	caernarvon.org
  .	calntownship.org
@@ -9007,6 +9026,7 @@ usagovPA
  .	ehb.courtapps.com
  .	elizabethtownship.net
  .	elizabethtwp.com
+ .	elversonboro.org
  .	ephrataboro.org
  .	erie.pa.us
  .	eriecountygov.org
@@ -9163,6 +9183,7 @@ usagovPA
  .	pacast.com
  .	pacourts.us
  .	paehealth.com
+ .	pafirstnet.com
  .	palmertonborough.com
  .	palmertwp.com
  .	paradisetownship.com
@@ -9229,6 +9250,7 @@ usagovPA
  .	sewickleyborough.org
  .	sewickleyhills.com
  .	shaler.org
+ .	sharonhillboro.com
  .	sharpsburgborough.com
  .	sharpsville.org
  .	shoholatwp.org
@@ -9557,7 +9579,6 @@ usagovSC
  .	lincolnvillesc.com
  .	littlemountainsc.info
  .	llronline.com
- .	mayesvillesc.com
  .	midlandsareacfc.org
  .	mtcroghan.com
  .	mullinssc.us
@@ -9575,7 +9596,6 @@ usagovSC
  .	port-of-charleston.com
  .	portroyal.org
  .	prosperitysc.com
- .	richburgsc.net
  .	richlandonline.com
  .	ridgespringsc.com
  .	santeecooper.com
@@ -9588,10 +9608,10 @@ usagovSC
  .	scgovernorsmansion.org
  .	scgssm.org
  .	scguard.com
- .	scilconline.org
  .	scpcf.com
  .	scrdc.org
  .	scsdb.org
+ .	scsilc.com
  .	scsos.com
  .	sctax.org
  .	sctuitiongrants.com
@@ -9618,7 +9638,6 @@ usagovSC
  .	townofbriarcliffe.us
  .	townofcampobello.com
  .	townofedistobeach.com
- .	townofheathsprings.org
  .	townofhollywood.org
  .	townofhoneapath.com
  .	townofirmosc.com
@@ -9803,7 +9822,6 @@ usagovTN
  .	state.tn.us
  .	stewartcogov.com
  .	sumnertn.org
- .	tba.org
  .	tennesseeholocaustcommission.org
  .	tfli.org
  .	thda.org
@@ -9931,6 +9949,7 @@ usagovTX
  .	cityofbalchsprings.com
  .	cityofbastrop.org
  .	cityofbaycity.org
+ .	cityofbonham.org
  .	cityofbowietx.com
  .	cityofbrenham.org
  .	cityofbridgeport.net
@@ -10155,7 +10174,6 @@ usagovTX
  .	co.zavala.tx.us
  .	coastalbendareacfc.org
  .	cob.us
- .	cobon.net
  .	colleyville.com
  .	coloradocitytexas.org
  .	columbustexas.net
@@ -10199,7 +10217,6 @@ usagovTX
  .	gptx.org
  .	granbury.org
  .	graniteshoals.org
- .	gulfofmexicoalliance.org
  .	gunbarrelcity.net
  .	haltomcitytx.com
  .	hamiltoncountytx.org
@@ -10555,6 +10572,7 @@ usagovVA
  .	dinwiddieva.us
  .	dmvnow.com
  .	dublintown.org
+ .	elderrightsva.org
  .	ext.vt.edu
  .	farmvilleva.com
  .	fcva.us
@@ -10594,6 +10612,7 @@ usagovVA
  .	nortonva.org
  .	nottoway.org
  .	nrvpdc.org
+ .	olmsteadva.com
  .	onancock.com
  .	parksley.org
  .	pearisburg.org
@@ -10651,13 +10670,17 @@ usagovVA
  .	townoftazewell.org
  .	townofurbanna.com
  .	townofwoodstockva.com
+ .	va-src.org
  .	vaao.org
  .	vaboard.org
+ .	vacni.org
+ .	vadars.org
  .	vadrs.org
  .	vadsa.org
  .	vafire.com
  .	valottery.com
  .	varetire.org
+ .	vasilc.org
  .	vats.org
  .	vbgov.com
  .	vcef.net
@@ -10665,12 +10688,14 @@ usagovVA
  .	vddhh.org
  .	vhda.com
  .	vhib.org
+ .	vibonline.org
  .	virginia.org
  .	virginia529.com
  .	virginiaallies.org
  .	virginiadot.org
  .	virginiaresources.org
  .	vmnh.net
+ .	vrcbvi.org
  .	vsb.org
  .	warrencountyva.net
  .	washcova.com
@@ -11073,6 +11098,7 @@ usagovWA
  .	republicwa.org
  .	royalcitywa.org
  .	rustonwa.org
+ .	sammamish.us
  .	sanjuanco.com
  .	skagitcounty.net
  .	skamaniacounty.org
