@@ -1,0 +1,12 @@
+name: 'Government URLs'
+description: 'An API for searching against all the government URLs - all of them. '
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - domains
+    - websites
+contact:
+    email: dawn.mccleskey@gsa.gov
