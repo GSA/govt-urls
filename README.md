@@ -1,3 +1,7 @@
+# WARNING!
+
+This repo is offically deprecated. Use at your own risk.
+
 # Source Code
 
 The code that runs the DigitalGov Search [Non-.gov URLs API](http://search.digitalgov.gov/developer/govt-urls.html)&mdash;a list of government URLs that don't end in .gov or .mil.&mdash;is here on Github. If you're a Ruby developer, keep reading. Fork this repo to add features (such as additional datasets) or fix bugs.
