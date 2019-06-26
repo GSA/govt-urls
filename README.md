@@ -34,4 +34,4 @@ Note that totally new websites [must be within .gov or .mil](https://policy.cio.
 
 # The old API
 
-If you're looking for the API that used to be located in this repo, we've [archived it in a branch](/tree/pre-deprecation-release).
+If you're looking for the API that used to be located in this repo, we've [archived it in a branch](https://github.com/GSA/govt-urls/tree/pre-deprecation-release).
