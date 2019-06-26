@@ -1,74 +1,37 @@
-# WARNING!
+# About
 
-This repo is offically deprecated. Use at your own risk.
+This repo contains the list of government managed domains that exist outside of the top-level .gov and .mil domains. Please see https://search.gov/developer/govt-urls.html for full information on the effort.
 
-# Source Code
+# Contributing
 
-The code that runs the DigitalGov Search [Non-.gov URLs API](http://search.digitalgov.gov/developer/govt-urls.html)&mdash;a list of government URLs that don't end in .gov or .mil.&mdash;is here on Github. If you're a Ruby developer, keep reading. Fork this repo to add features (such as additional datasets) or fix bugs.
+## Review the list
 
-The documentation on request parameters and response format is on the [API developer page](http://search.digitalgov.gov/developer/govt-urls.html). This README just covers software development of the API service itself.
+The list is availble in multiple views:
 
-# Data Source
+1. [The full list](/1_govt_urls_full.csv)
+1. [Federal government only](/2_govt_urls_federal_only.csv)
+1. [State government only](/3_govt_urls_state_only.csv)
+1. [Regional governmental bodies only](/4_govt_urls_regional_only.csv)
+1. [County government only](/5_govt_urls_county_only.csv)
+1. [Local government only](6_govt_urls_local_only.csv)
+1. [Native Sovereign Nation government only](7_govt_urls_native_sovereign_nations_only.csv)
+1. [Quasigovernmental domains only](8_govt_urls_quasigovernmental_only.csv)
 
-We maintain this list at <http://govt-urls.usa.gov/tematres/vocab/index.php> and make periodic updates as we come across changes.
+Deprecated and other out of use domains [will be removed](https://github.com/GSA/govt-urls-master/9_govt_urls_not_used.csv) as they are discovered.
 
-Each quarter, we also post the URLs here in Github in two text files.
+## Send your contributions
 
-1. [Alphabetic](/government-urls-alphabetic-list.txt)&mdash;an A-Z list of URLs with accompanying notes and relationships collected over time.
-2. [Hierarchical](/government-urls-hierarchical-list.txt)&mdash;a flat list of URLs segmented by category (see BT description in the following section).
+We welcome updates and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>. 
 
-Cross reference symbols that you'll find in the alphabetic list include:
+Please include:
 
-* **BT (broader term)**&mdash;indicates the category for each URL, such as federal (usagovFED) or state, commonwealth, or territory (usagov__, 2-letter [postal abbreviation](https://www.usps.com/send/official-abbreviations.htm)).
-* **NT (narrower term)**&mdash;the opposite of BT. 
-* **UF (used for)**&mdash;indicates the nonpreferred URL. Nonpreferred URLs no longer resolve or redirect to another URL. UF is the reciprocal of USE and means "don't use" the term following it.
-* **USE**&mdash;indicates the preferred, resolving URL. "Use" the term following it.
-* **RTET (related equivalent term)**&mdash;indciates two URLs that both resolve to the same website. Neither is preferred. 
-* **RT (related term)**&mdash;indicates an association between two related terms when it seems helpful.
+* Domain
+* Managing agency
+* Location (State), if applicable
+* Any notes about the purpose or scope of the site
 
-# Running the API Locally
+Note that totally new websites [must be within .gov or .mil](https://policy.cio.gov/web-policy/domain/), pre-existing websites may be submitted for an exception ([see Section E](https://policy.cio.gov/web-policy/domain/)).
 
-## Ruby
+# The old API
 
-The project requires [Ruby 2.2.2](https://www.ruby-lang.org/en/downloads/).
-
-## Gems
-
-We use bundler to manage gems. You can install bundler and other required gems like this:
-
-    gem install bundler
-    bundle install
-
-## Elasticsearch
-
-We're using [Elasticsearch](http://www.elasticsearch.org/) (>= 1.2.0) for fulltext search. On a Mac, it's easy to install with [Homebrew](http://mxcl.github.com/homebrew/).
-
-    brew install elasticsearch
-
-Otherwise, follow the [instructions](http://www.elasticsearch.org/download/) to download and run it.  Elasticsearch must be running locally.
-
-## Redis
-
-You'll need to have redis installed on your machine. `brew install redis`, `apt-get install redis-server`, etc.  Redis must also be running locally and can be started with the `redis-server` command.
-
-## Starting the Server
-
-	bundle exec rails s
-
-## Starting Sidekiq
-
-Sidekiq must be running to import the data into Elasticsearch.
-
-	bundle exec sidekiq
-
-## Importing the Data
-
-	bundle exec rake tematres:import
-
-## Viewing the Results
-
-Navigate to [http://localhost:3000/government_urls/search?](http://localhost:3000/government_urls/search?).
-
-## Contributing
-
-We welcome comments and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>.
+If you're looking for the API that used to be located in this repo, we've [archived it in a branch](/tree/pre-deprecation-release).

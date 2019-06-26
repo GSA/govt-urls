@@ -1,11 +1,11 @@
 name: 'Government URLs'
-description: 'An API for searching against all the government URLs - all of them. '
+description: 'An inventory of all the government domains outside the .gov and .mil top-level domains. '
 license: null
 openSourceProject: 1
 governmentWideReuseProject: 0
 tags:
     - GSA
-    - DigitalGovSearch
+    - Search.gov
     - domains
     - websites
 contact:
