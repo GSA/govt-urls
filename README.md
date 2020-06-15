@@ -1,6 +1,6 @@
 # About
 
-This repo contains the list of government managed domains that exist outside of the top-level .gov and .mil domains. Please see https://search.gov/developer/govt-urls.html for full information on the effort.
+This repo contains the list of public government managed domains that exist outside of the top-level .gov and .mil domains. Please see https://search.gov/developer/govt-urls.html for full information on the effort.
 
 # Contributing
 
