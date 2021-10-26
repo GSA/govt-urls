@@ -21,14 +21,17 @@ Deprecated and other out of use domains [will be removed](https://github.com/GSA
 
 ## Send your contributions
 
-We welcome updates and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>. 
+We welcome updates and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>.
 
 Please include:
 
 * Domain
-* Managing agency
+* Federal agency responsible for the website, if applicable
+* Level of Government (Federal, State, Regional, County, Local, Native Sovereign Nation, or Quasigovernmental)
 * Location (State), if applicable
-* Any notes about the purpose or scope of the site
+* A note about the purpose or scope of the website
+
+We also welcome [pull requests](https://github.com/GSA/govt-urls/pulls).  
 
 Note that totally new websites [must be within .gov or .mil](https://policy.cio.gov/web-policy/domain/), pre-existing websites may be submitted for an exception ([see Section E](https://policy.cio.gov/web-policy/domain/)).
 
