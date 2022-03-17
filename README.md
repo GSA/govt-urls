@@ -1,6 +1,6 @@
 # About
 
-This repo contains the list of public government managed domains that exist outside of the top-level .gov and .mil domains. Please see https://search.gov/developer/govt-urls.html for full information on the effort.
+This repo contains the list of public government managed domains that exist outside of the top-level .gov and .mil domains. Please see https://search.gov/about/policy/govt-urls.html for full information on the effort.
 
 # Contributing
 
@@ -21,7 +21,7 @@ Deprecated and other out of use domains [will be removed](https://github.com/GSA
 
 ## Send your contributions
 
-We welcome updates and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>.
+We welcome updates and additions. [Submit a new issue](https://github.com/GSA/govt-urls/issues) to contribute directly to this list or email us at <search@support.digitalgov.gov>. We also welcome [pull requests](https://github.com/GSA/govt-urls/pulls).
 
 Please include:
 
@@ -30,8 +30,6 @@ Please include:
 * Level of Government (Federal, State, Regional, County, Local, Native Sovereign Nation, or Quasigovernmental)
 * Location (State), if applicable
 * A note about the purpose or scope of the website
-
-We also welcome [pull requests](https://github.com/GSA/govt-urls/pulls).  
 
 Note that totally new websites [must be within .gov or .mil](https://policy.cio.gov/web-policy/domain/), pre-existing websites may be submitted for an exception ([see Section E](https://policy.cio.gov/web-policy/domain/)).
 
