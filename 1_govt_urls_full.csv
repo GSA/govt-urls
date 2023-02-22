@@ -2675,7 +2675,8 @@ co.allen.oh.us,,,,County,,Ohio,"Allen County, OH -- Note added 3/13/14 15:08",ht
 co.anderson.tx.us,,,,County,,Texas,"Anderson County, TX -- Note added 6/17/15 5:21",http://co.anderson.tx.us/,6/6/13 18:08
 co.anson.nc.us,,,,County,,North Carolina,"anson, nc -- Note added 9/11/15 19:32",http://co.anson.nc.us/,6/6/13 18:08
 co.apache.az.us,,,,County,,Arizona,"Apache County, AZ -- Note added 12/13/13 13:00",http://www.co.apache.az.us/,6/6/13 18:08
-co.arapahoe.co.us,,,,County,,Colorado,"Arapahoe County, CO -- Note added 7/11/14 5:47",http://co.arapahoe.co.us/,6/6/13 18:08
+co.arapahoe.co.us,"Arapahoe County, CO",,,County,,Colorado,"Arapahoe County, CO -- Note added 7/11/14 5:47",http://co.arapahoe.co.us/,6/6/13 18:08
+arapahoegov.com,"Arapahoe County, CO",,,County,,Colorado,,,
 co.archer.tx.us,,,,County,,Texas,"Archer County, TX -- Note added 6/17/15 5:22",http://co.archer.tx.us/,6/6/13 18:08
 co.armstrong.pa.us,,,,County,,Pennsylvania,"Armstrong County, PA -- Note added 9/8/14 14:13",http://co.armstrong.pa.us/,6/6/13 18:08
 co.armstrong.tx.us,,,,County,,Texas,"Armstrong County, TX -- Note added 6/17/15 5:23",http://co.armstrong.tx.us/,6/6/13 18:08
@@ -7387,6 +7388,7 @@ southkingstownri.com,,,,Local,,Rhode Island,"Town of South Kingstown, RI -- Note
 southlyonmi.org,,,,Local,,Michigan,"City of South Lyon, Michigan -- Note added 9/3/15 16:10",http://www.southlyonmi.org/1/223/index.asp,6/6/13 18:08
 southogdencity.com,,,,Local,,Utah,"South Ogden City, UT -- Note added 8/25/14 12:18",http://www.southogdencity.com/,6/6/13 18:08
 southorange.org,,,,Local,,New Jersey,"south orange, nj -- Note added 9/16/15 19:01",http://southorange.org/,6/6/13 18:08
+sors.us,South Orange Rescue Squad,,,Local,,North Carolina,"We are a EMS / Technical Rescue agency providing services for residents of Orange County, NC as well as a state deployment team for North Carolina EM.",,
 southparktwp.com,,,,Local,,Pennsylvania,"South Park Township, PA -- Note added 10/1/14 20:47",http://southparktwp.com/,6/6/13 18:08
 southplainfieldnj.com,,,,Local,,New Jersey,"Borough of South Plainfield, nj -- Note added 9/16/15 19:00",http://www.southplainfieldnj.com/spnj/,6/6/13 18:08
 southportland.org,,,,Local,,Maine,"south portland, me -- Note added 8/27/15 20:00",http://southportland.org/,6/6/13 18:08
@@ -9022,6 +9024,7 @@ dcsafesurrender.net,Court Services and Offender Supervision Agency,CSOSA OIT,Web
 dcsafesurrender.org,Court Services and Offender Supervision Agency,CSOSA OIT,Website,Federal,Executive,,"Parked domain, redirects to CSOSA.gov",,
 commissaries.com,Department of Defense,Defense Commissary Agency,Website,Federal,Executive,,,,
 cultureready.org,Department of Defense,Defense Language and National Security Education Office,,Federal,Executive,,,,
+serdp-estcp.org,Department of Defense,Strategic Environmental Research and Development Program (SERDP) and the Environmental Security Technology Certification Program (ESTCP),"Website, email",Federal,Executive,,,,
 usarmyband.com,Department of Defense,,Website,Federal,Executive,,,,
 americanmadechallenges.org,Department of Energy,National Renewable Energy Laboratory,Website,Federal,Executive,,The American-Made Challenges prize competitions are directed and administered by the National Renewable Energy Laboratory and funded by the U.S. Department of Energy,,
 actagainstaids.org,Department of Health and Human Services,Centers for Disease Control and Prevention,Defensive Registration,Federal,Executive,,,,
@@ -9176,6 +9179,7 @@ workforcegps.org ,Department of Labor,ETA,Website,Federal,Executive,,Contains a 
 rewardsforjustice.net,Department of State,,,Federal,Executive,,,,
 rfj.tips,Department of State,,URL shortener for RewardsForJustice.net,Federal,Executive,,,,
 doi.net,Department of the Interior,Office of the Chief Information Officer,Internal Infrastructure,Federal,Executive,,,,
+tftc-istehdaf.org,Department of the Treasury,Office of the Chief Information Officer,Website - open to public,Federal,Executive,,"The Terrorist Financing Targeting Center (TFTC) is a multilateral body created to strengthen cooperation among seven countries - Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates, and the United States - to disrupt terrorist financing networks and related activities of mutual concern.",,
 fedroom.com,General Services Administration,GSA IT,Website - open to public,Federal,Executive,,,,
 cfcgiving.org,Office of Personnel Management,U.S. Office of Personnel Management,Unused,Federal,Executive,,,,
 combinedfederal.org,Office of Personnel Management,U.S. Office of Personnel Management,Unused,Federal,Executive,,,,
@@ -9187,14 +9191,14 @@ usajobsassess.us,Office of Personnel Management,HRS IT PMO,Unused,Federal,Execut
 usajobsrecruit.com,Office of Personnel Management,HRS IT PMO,Unused,Federal,Executive,,,,
 usajobsrecruit.us,Office of Personnel Management,HRS IT PMO,Unused,Federal,Executive,,,,
 xsp.org,Office of Personnel Management,U.S. Office of Personnel Management,I don't know,Federal,Executive,,,,
-ssoo.us,Office of the Director of National Intelligence,Peace World Agency,"Website - password protected,Email,API,private internal communications ",Federal,Executive,,"Domain registration required as per ODNI SAP 
-TS//SAR-OpSTEMMM 2F0 L1A. ",,
+ssoo.us,Office of the Director of National Intelligence,Peace World Agency,"Website - password protected,Email,API,private internal communications ",Federal,Executive,,Domain registration required as per ODNI SAP TS//SAR-OpSTEMMM 2F0 L1A. ,,
 pbgc.biz,Pension Benefit Guaranty Corporation,,Defensive Registration,Federal,Executive,,Defensive registration - to prevent other from impersonating us.,,
 pbgc.com,Pension Benefit Guaranty Corporation,,Defensive Registration,Federal,Executive,,Defensive registration - to prevent other from impersonating us.,,
 pbgc.net,Pension Benefit Guaranty Corporation,,Defensive Registration,Federal,Executive,,Defensive registration - to prevent other from impersonating us.,,
 pbgc.org,Pension Benefit Guaranty Corporation,,Defensive Registration,Federal,Executive,,Defensive registration - to prevent other from impersonating us.,,
 pbgc.us,Pension Benefit Guaranty Corporation,,Defensive Registration,Federal,Executive,,Defensive registration - to prevent other from impersonating us.,,
 howeycoins.com,Securities and Exchange Commission,Office of Investor Education and Advocacy,Website - open to public,Federal,Executive,,,,
+americasseedfund.us,Small Business Administration,,,Federal,Executive,,,,
 artcollectorsprogram.org,Smithsonian Institution,,,Federal,Executive,,,,
 cicadamerch.com,Smithsonian Institution,,,Federal,Executive,,,,
 discoverytheater.org,Smithsonian Institution,,,Federal,Executive,,,,
@@ -9223,5 +9227,4 @@ vaitcampus.com,Department of Veterans Affairs,IT Workforce Development,Website,F
 vavmc.com,Department of Veterans Affairs,Employee Education System,Website,Federal,Executive,,"Banner says ""Powered by the Veterans Health Administration, Employee Education System""",,
 okdhslive.org,,OK Human Services Department,,State,Executive,Oklahoma,,,
 okhotline.org,,OK Human Services Department,,State,Executive,Oklahoma,,,
-usarmyband.com,Department of Defense,The United States Army Band,,Federal,Executive,,,,
-dlnseo.org,Department of Defense,Defense Language and National Security Education Office,,Federal,Executive,,"Linked to from cultureready.org. ""An official website of the U.S. Department of Defense""",,
+usarmyband.com,Department of Defense,The United States Army Band,,Federal,Executive,,"Linked to from cultureready.org. ""An official website of the U.S. Department of Defense""",,
